@@ -1,5 +1,6 @@
 ---
 title: "Woodrow Wilson, Ezra Pound and an homage to James Joyce's \"Ulysses\""
+subtitle: "A tongue-in-cheek theory that Wilson's censorious, verbose prose helped provoke literature's turn toward the interior style of Ulysses."
 date: 2026-06-17
 draft: false  
 image: "/img/wilson-pound-joyce.jpg"
@@ -13,6 +14,9 @@ sources:
 ---
 Urbane, to comfort them, the neophyte blogger purred:
 -- And we have, have we not, those priceless pages of Ezra Pound in The Dial from June 1922, reviewing the then-new novel Ulysses by James Joyce?  A great poet on a great brother poet.
+
+<!--more-->
+
 -- um, what? Am I not supposed to recognize that that opening mangles the first words of Joyce’s great episode “Scylla and Charybdis” from Ulysses, in an attempt to paraphrase it?
 -- No, I was hoping it would be painfully obvious.
 -- That’s a strange way to celebrate Bloomsday.

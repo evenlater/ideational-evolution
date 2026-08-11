@@ -1,5 +1,6 @@
 ---
 title: "I Did Not Mean It: Gladstone, Homer and a Second Chance at Providence"
+subtitle: "A 1,600-page study of Homer becomes a window into the statesman's private wrestling with fate, free will and progress."
 date: 2026-04-14
 draft: false
 image: "/img/gladstone-i-did-not-mean-it.jpg"
@@ -25,7 +26,11 @@ sources:
 
 >(Or, as Emily Wilson’s recent translation more simply put it, “This is absurd, that mortals blame the gods. They say we cause their suffering, but they themselves increase it by folly.”)
 
-My last piece on William Ewart Gladstone explored the earthly reasons he went to Corfu and changed parties in 1858-59. This time I’m exploring Gladstone’s views of potential celestial reasons that these things happened to him: Providence, fate, destiny, predestination, free will and progress. For just before Gladstone left for Corfu, which I argue in the last essay led to his changing parties, he had written a 1,600-page, three-volume book called Studies on Homer and the Homeric Age, in which he analyzed at length his and Homer’s views of those concepts. My operating theory is that Gladstone would have had these ideas bouncing around his mind as he toured what he believed to be the site of Odysseus’ storytelling to the Phaeacians, while contemplating both his own, then-frustrated and isolated fate in the world and the fate of an Ionian people demanding it be reunited with what it saw as its homeland. The questions dove-tailed. He was undergoing a transition, very quietly, from a conservatism about the self-interest of Britain abroad to a new liberalism both about the humanitarian needs of foreign peoples and the conditions of the people at home. He had a role to play in the world but was immersed in a Homeric perspective on both personal and national agency. Given what he had to say about his despair at being “cast out of party connection” he may even have felt out of control of his destiny, which he seized only by accepting a top role in the new Liberal party. Gladstone the conservative believed progress was not inevitable, but Gladstone the liberal, though he never recanted that view, tried to become an instrument of justice in what he called the providential order of the world.
+My last piece on William Ewart Gladstone explored the earthly reasons he went to Corfu and changed parties in 1858-59. This time I’m exploring Gladstone’s views of potential celestial reasons that these things happened to him: Providence, fate, destiny, predestination, free will and progress.
+
+<!--more-->
+
+For just before Gladstone left for Corfu, which I argue in the last essay led to his changing parties, he had written a 1,600-page, three-volume book called Studies on Homer and the Homeric Age, in which he analyzed at length his and Homer’s views of those concepts. My operating theory is that Gladstone would have had these ideas bouncing around his mind as he toured what he believed to be the site of Odysseus’ storytelling to the Phaeacians, while contemplating both his own, then-frustrated and isolated fate in the world and the fate of an Ionian people demanding it be reunited with what it saw as its homeland. The questions dove-tailed. He was undergoing a transition, very quietly, from a conservatism about the self-interest of Britain abroad to a new liberalism both about the humanitarian needs of foreign peoples and the conditions of the people at home. He had a role to play in the world but was immersed in a Homeric perspective on both personal and national agency. Given what he had to say about his despair at being “cast out of party connection” he may even have felt out of control of his destiny, which he seized only by accepting a top role in the new Liberal party. Gladstone the conservative believed progress was not inevitable, but Gladstone the liberal, though he never recanted that view, tried to become an instrument of justice in what he called the providential order of the world.
 
 ## Progress
 

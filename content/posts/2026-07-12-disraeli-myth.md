@@ -1,5 +1,6 @@
 ---
 title: "Review: The Disraeli myth is consequential but endangered, a new book shows"
+subtitle: "Emily Jones' new book traces how a myth Disraeli built himself still shapes British conservatism today."
 date: 2026-07-12
 draft: false
 image: "/img/disraeli-myth.jpg"
@@ -8,7 +9,11 @@ tags:
 lede: 
 sources:
 ---
-Writing about Benjamin Disraeli as an American, as I do, can be lonely. The 19th century British prime minister and 12-time novelist’s only recent appearance in the American pop consciousness came in a cameo on the animated television show “The Family Guy.” In one of the show’s famous cutaway gags Disraeli turns to the TV audience and intones dolefully “You don’t know who I am.” That walk-on is mentioned by Emily Jones in the opening pages of her excellent new book The Disraeli Myth: The Making of a Conservative Tradition. But Jones cites it as evidence of Disraeli’s continued relevance and leaves out the point of the bit: Disraeli is passé. This is a lesson I also learned when I tried to sell my near mint copy of a scholarship-packed edition of Disraeli’s first novel Vivian Grey at a hip used bookstore in Chicago’s Wicker Park neighborhood. The bookstore employee offered me a quarter of its sticker price and explained, with a look of remorseful pity, “Not too many people are looking for Disraeli novels these days.” The last I knew, it was still there, marked $30, next to a copy of his novel Coningsby. A Reddit thread about 300 days ago, not by me, asked, “Why isn’t Benjamin Disraeli lionized anymore?” I, too, tried interesting the literary crowds on Reddit in the 200th anniversary of Vivian Grey and, while I received 8,000 views and several “upvotes” not one person commented on my post, unlike other posts of mine.   
+Writing about Benjamin Disraeli as an American, as I do, can be lonely. The 19th century British prime minister and 12-time novelist’s only recent appearance in the American pop consciousness came in a cameo on the animated television show “The Family Guy.” In one of the show’s famous cutaway gags Disraeli turns to the TV audience and intones dolefully “You don’t know who I am.”
+
+<!--more-->
+
+That walk-on is mentioned by Emily Jones in the opening pages of her excellent new book The Disraeli Myth: The Making of a Conservative Tradition. But Jones cites it as evidence of Disraeli’s continued relevance and leaves out the point of the bit: Disraeli is passé. This is a lesson I also learned when I tried to sell my near mint copy of a scholarship-packed edition of Disraeli’s first novel Vivian Grey at a hip used bookstore in Chicago’s Wicker Park neighborhood. The bookstore employee offered me a quarter of its sticker price and explained, with a look of remorseful pity, “Not too many people are looking for Disraeli novels these days.” The last I knew, it was still there, marked $30, next to a copy of his novel Coningsby. A Reddit thread about 300 days ago, not by me, asked, “Why isn’t Benjamin Disraeli lionized anymore?” I, too, tried interesting the literary crowds on Reddit in the 200th anniversary of Vivian Grey and, while I received 8,000 views and several “upvotes” not one person commented on my post, unlike other posts of mine.   
 
 Jones’ book, however, makes a case that Disraeli’s influence has remained surprisingly important in British politics. If she’s right, and I think she is, then Disraeli’s 1845 Sybil, or the Two Nations, which is brilliant but politically vague and inert, is perhaps the single most influential novel of all time on politics.
 

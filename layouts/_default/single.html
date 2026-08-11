@@ -11,9 +11,6 @@
         <h1>{{ .Title }}</h1>
         {{ with .Params.subtitle }}<p class="post-subtitle">{{ . }}</p>{{ end }}
         <p class="post-byline">By {{ .Site.Params.author }} &nbsp;·&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
-        {{ with .Params.lede }}
-        <p class="post-lede">{{ . }}</p>
-        {{ end }}
       </div>
     </header>
 
@@ -22,6 +19,12 @@
       <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="eager">
     </figure>
     {{ end }}
+
+    <div class="post-header-inner">
+      {{ with .Params.lede }}
+      <p class="post-lede">{{ . }}</p>
+      {{ end }}
+    </div>
 
     <div class="post-body">
       {{ .Content }}
