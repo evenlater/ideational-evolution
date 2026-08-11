@@ -768,3 +768,7 @@ footer span { color: var(--gold-dim); }
   .post-card { border-right: none; }
   .single-post { padding: 2rem 1.5rem; }
 }
+/* {{< hl >}}word{{< /hl >}} — turns the enclosed text the site's gold accent color. */
+.hl-yellow {
+  color: var(--gold);
+}
