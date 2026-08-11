@@ -1,0 +1,24 @@
+baseURL = 'https://www.ideationalevolution.com/'
+title = 'Ideational Evolution'
+locale = 'en-us'
+
+[params]
+  description = 'Essays in Political & Literary History'
+  author = 'Darryl Cater'
+  subtitle = 'Wilson · Gladstone · Disraeli'
+  location = 'Chicago'
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      hardWraps = true
+
+[outputs]
+  home = ['HTML', 'RSS']
+  page = ['HTML']
+  section = ['HTML', 'RSS']

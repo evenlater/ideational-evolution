@@ -1,0 +1,115 @@
+books:
+  - id: mitchell_bulwer
+    author: Mitchell, Leslie
+    title: "Bulwer Lytton: The Rise and Fall of a Victorian Man of Letters"
+    publisher: Hambledon and London
+    year: 2003
+    city: London
+
+  - id: bebbington_gladstone
+    author: Bebbington, David
+    title: "The Mind of Gladstone: Religion, Homer, and Politics"
+    publisher: Oxford University Press
+    year: 2004
+    city: Oxford
+
+  - id: matthew_gladstone
+    author: Matthew, H.C.G.
+    title: "Gladstone 1809-1898"
+    publisher: Clarendon Press
+    year: 1997
+    city: Oxford
+
+  - id: magnus_gladstone
+    author: Magnus, Philip
+    title: "Gladstone: A Biography"
+    publisher: E.P. Dutton & Co.
+    year: 1954
+    city: New York
+
+  - id: jenkins_gladstone
+    author: Jenkins, Roy
+    title: Gladstone
+    publisher: Macmillan
+    year: 1995
+    city: London
+
+  - id: morley_gladstone
+    author: Morley, John
+    title: "The Life of Gladstone, Volume 1"
+    publisher: Project Gutenberg
+    year: 2007
+
+  - id: kelley_transatlantic
+    author: Kelley, Robert
+    title: "The Transatlantic Persuasion: The Liberal-Democratic Mind in the Age of Gladstone"
+    publisher: Alfred A. Knopf
+    year: 1969
+    city: New York
+
+  - id: jagger_gladstone
+    author: "Jagger, Peter J., ed."
+    title: Gladstone
+    publisher: Hambledon Press
+    year: 1998
+    city: London
+
+  - id: lloyd_jones_blood
+    author: Lloyd-Jones, Hugh
+    title: "Blood for the Ghosts: Classical Influences in the Nineteenth and Twentieth Centuries"
+    publisher: The Johns Hopkins University Press
+    year: 1982
+    city: Baltimore
+
+  - id: beales_england_italy
+    author: Beales, Derek
+    title: "England and Italy 1859-60"
+    publisher: Thomas Nelson and Sons
+    year: 1961
+    city: London
+
+  - id: gladstone_homer
+    author: Gladstone, William E.
+    title: "Studies on Homer and the Homeric Age, Volume 2"
+    publisher: Oxford University Press
+    year: 1859
+
+  - id: homer_wilson_odyssey
+    author: "Homer; Wilson, Emily, translator"
+    title: The Odyssey
+    publisher: W.W. Norton & Company
+    year: 2018
+    city: New York
+
+  - id: homer_wilson_iliad
+    author: "Homer; Wilson, Emily, translator"
+    title: The Iliad
+    publisher: W.W. Norton & Company
+    year: 2023
+    city: New York
+
+  - id: disraeli_endymion
+    author: Disraeli, Benjamin
+    title: Endymion
+    publisher: Longmans, Green and Co.
+    year: 1880
+    city: London
+
+  - id: monypenny_disraeli
+    author: "Monypenny, W.F. and Buckle, G.E."
+    title: "The Life of Benjamin Disraeli, Earl of Beaconsfield"
+    publisher: Macmillan
+    year: 1929
+    city: London
+
+  - id: turner_greek_heritage
+    author: Turner, Frank M.
+    title: "The Greek Heritage in Victorian Britain"
+    publisher: Yale University Press
+    year: 1981
+
+  - id: hawkins_parliament
+    author: Hawkins, Angus
+    title: "Parliament, Party and the Art of Politics in Britain, 1855-59"
+    publisher: Stanford University Press
+    year: 1987

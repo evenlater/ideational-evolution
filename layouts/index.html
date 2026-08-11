@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="container">
+
+  {{/* ── FEATURED / LATEST ESSAY ── */}}
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ $posts = $posts.ByDate.Reverse }}
+  {{ with index $posts 0 }}
+  <article class="hero">
+    <div class="hero-main">
+      <p class="hero-flag">Latest Essay</p>
+      <h2>{{ .Title }}</h2>
+      {{ with .Params.subtitle }}<p class="hero-sub">{{ . }}</p>{{ end }}
+      <p class="hero-byline">By {{ $.Site.Params.author }} &nbsp;·&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
+      {{ with .Params.lede }}<p class="hero-lede">{{ . }}</p>{{ end }}
+      <p class="hero-body">{{ .Summary }}</p>
+      <a href="{{ .Permalink }}" class="read-more">Continue Reading</a>
+    </div>
+
+    <aside class="hero-aside">
+      <p class="aside-label">Recent</p>
+      {{ range after 1 (first 5 $posts) }}
+      <div class="aside-item">
+        <p class="aside-tag">{{ with .Params.tags }}{{ index . 0 }}{{ end }} · {{ .Date.Format "January 2006" }}</p>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </div>
+      {{ end }}
+    </aside>
+  </article>
+
+  {{/* ── ALL ESSAYS STACK ── */}}
+  <div class="posts-section">
+    <div class="posts-header"><h3>All Essays</h3></div>
+    <div class="post-stack">
+      {{ range $posts }}
+      {{ $heroImg := partial "heroimage.html" . }}
+      <a href="{{ .Permalink }}" class="stack-card{{ if eq $heroImg "" }} no-image{{ end }}">
+        {{ with $heroImg }}
+        <div class="stack-card-image"><img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy"></div>
+        {{ end }}
+        <div class="stack-card-info">
+          <p class="card-tag">{{ with .Params.tags }}{{ index . 0 }}{{ end }} · {{ .Date.Format "January 2006" }}</p>
+          <h4>{{ .Title }}</h4>
+          {{ with .Params.venue }}<p class="card-venue">{{ . }}</p>{{ end }}
+          <p class="card-excerpt">{{ .Summary }}</p>
+          <p class="card-date">{{ .Date.Format "January 2006" }}</p>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+</div>
+
+{{/* ── BIBLIOGRAPHY SECTION (if books exist) ── */}}
+{{ with .Site.Data.books }}
+{{ end }}
+
+{{ end }}
