@@ -6,7 +6,7 @@ locale = 'en-us'
   description = 'Essays in Political & Literary History'
   author = 'Darryl Cater'
   subtitle = 'Wilson · Gladstone · Disraeli'
-  location = 'Chicago'
+  location = 'USA'
 
 [taxonomies]
   tag = 'tags'
