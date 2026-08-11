@@ -3,14 +3,13 @@ title: "The Scholar in Politics"
 subtitle: "Teddy Roosevelt and Woodrow Wilson were a new breed of college-educated politician. Looking back at a time with a tenor different from our own."
 date: 2025-11-21
 draft: false
-image: "/img/gladstone-i-did-not-mean-it.jpg"
 tags:
   - Wilson
 lede: |
   "Recently someone sent me a quote from Gore Vidal’s 1987 novel Empire, an exploration of the United States’ entry into the colonial marketplace at the end of the 19th Century."
 sources:
 ---
-Recently someone sent me a quote from Gore Vidal’s 1987 novel Empire, an exploration of the United States’ entry into the colonial marketplace at the end of the 19th Century. The quote got me thinking about both Woodrow Wilson and Theodore Roosevelt and their roles in a new generation of college-educated men born in the 1850s and 1860s who got into politics at a time when that was not the thing to do. That moment in history presents a striking contrast with our present moment, when a generation of politicians is doing battle with higher education.
+Recently someone sent me a quote from {{< hl >}}Gore Vidal{{< /hl >}}’s 1987 novel Empire, an exploration of the United States’ entry into the colonial marketplace at the end of the 19th Century. The quote got me thinking about both Woodrow Wilson and Theodore Roosevelt and their roles in a new generation of college-educated men born in the 1850s and 1860s who got into politics at a time when that was not the thing to do. That moment in history presents a striking contrast with our present moment, when a generation of politicians is doing battle with higher education.
 
 The quote from Empire is spoken by Vidal’s fictional version of the novelist Henry James, reflecting on Theodore Roosevelt and his 1894 book of essays, American Ideals and Other Essays Social and Political, which James did in fact review for the journal Literature. In the novel James addresses his dinner party host, 19th Century historian Henry Adams, with characteristic labyrinthine verbiage:
 
