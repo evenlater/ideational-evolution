@@ -1,6 +1,7 @@
 [build]
-  command = "hugo --gc --minify"
-  publish = "public"
+  base = "your-directory"
+  command = "npm run build"
+  publish = "dist"
 
 [build.environment]
   HUGO_VERSION = "0.161.1"
