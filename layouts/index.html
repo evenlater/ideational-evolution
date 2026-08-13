@@ -39,18 +39,14 @@
   {{ $homeSlice := first $homeCount $posts }}
   {{ $batchSize := 6 }}
   {{ $batchCount := int (math.Ceil (div (float (len $homeSlice)) $batchSize)) }}
-  {{ $homeBatches := slice }}
-  {{ range seq $batchCount }}
-    {{ $start := mul (sub . 1) $batchSize }}
-    {{ $batch := $homeSlice | after $start | first $batchSize }}
-    {{ $homeBatches = $homeBatches | append (slice $batch) }}
-  {{ end }}
   <div class="posts-section">
     <div class="posts-header"><h3>All Essays</h3></div>
 
     <div id="home-grid">
-      {{ range $i, $batch := $homeBatches }}
-      <div class="post-grid grid-batch"{{ if ne $i 0 }} hidden{{ end }}>
+      {{ range $i := seq $batchCount }}
+        {{ $start := mul (sub $i 1) $batchSize }}
+        {{ $batch := $homeSlice | after $start | first $batchSize }}
+      <div class="post-grid grid-batch"{{ if ne $i 1 }} hidden{{ end }}>
         {{ range $batch }}
           {{ partial "post-card.html" . }}
         {{ end }}
@@ -58,17 +54,17 @@
       {{ end }}
     </div>
 
-    {{ if gt (len $homeBatches) 1 }}
+    {{ if gt $batchCount 1 }}
     <div class="shuffle-controls">
       <button type="button" id="shuffle-btn" class="shuffle-btn">More essays →</button>
-      <span id="shuffle-counter" class="shuffle-counter">1 / {{ len $homeBatches }}</span>
+      <span id="shuffle-counter" class="shuffle-counter">1 / {{ $batchCount }}</span>
     </div>
     {{ end }}
   </div>
 
 </div>
 
-{{ if gt (len $homeBatches) 1 }}
+{{ if gt $batchCount 1 }}
 <script>
 (function () {
   var batches = document.querySelectorAll('#home-grid .grid-batch');

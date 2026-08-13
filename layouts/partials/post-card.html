@@ -9,8 +9,8 @@
   {{ end }}
   <div class="pc-text">
     <p class="card-tag">{{ with .Params.tags }}{{ index . 0 }}{{ end }} · {{ .Date.Format "January 2006" }}</p>
-    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p class="card-excerpt">{{ with .Params.subtitle }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+    <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
+    {{ with .Params.subtitle }}<p class="card-excerpt">{{ . }}</p>{{ end }}
   </div>
   <p class="card-date">{{ .Date.Format "January 2, 2006" }}</p>
 </article>
