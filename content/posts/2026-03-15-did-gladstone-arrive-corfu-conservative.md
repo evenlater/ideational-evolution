@@ -1,7 +1,7 @@
 ---
 title: "Did Gladstone arrive in Corfu a conservative and leave a liberal?"
 date: 2026-03-15
-draft: true
+draft: false
 tags:
   - Gladstone
   - Disraeli
