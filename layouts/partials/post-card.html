@@ -1,0 +1,16 @@
+{{- /* Square post card used on both the homepage grid and the Archive.
+   Expects "." to be a Page. Image (if resolvable via heroimage.html)
+   shows on hover behind a scrim; cards with no image just get the
+   existing subtle background hover. */ -}}
+{{- $image := partial "heroimage.html" . -}}
+<article class="post-card{{ if $image }} has-image{{ end }}">
+  {{ with $image }}
+  <div class="pc-img" style="background-image: url('{{ . | relURL }}');"></div>
+  {{ end }}
+  <div class="pc-text">
+    <p class="card-tag">{{ with .Params.tags }}{{ index . 0 }}{{ end }} · {{ .Date.Format "January 2006" }}</p>
+    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    <p class="card-excerpt">{{ with .Params.subtitle }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+  </div>
+  <p class="card-date">{{ .Date.Format "January 2, 2006" }}</p>
+</article>
