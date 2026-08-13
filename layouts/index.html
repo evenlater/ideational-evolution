@@ -29,12 +29,22 @@
   {{ end }}
 
   {{/* ── SIX-BOX ESSAY GRID, CYCLED VIA BUTTON ──
-       Pulls from the most recent $homeCount posts, chunked into
-       pages of 6. Only the first chunk renders visible; the rest sit
-       hidden in the DOM and the button below cycles through them.
-       Full pagination through the entire archive lives on /posts. */}}
+       Pulls the most recent $homeCount posts and splits them into
+       batches of 6 (Hugo has no built-in chunk function, so this is
+       done by hand with seq/first/after). Only the first batch
+       renders visible; the rest sit hidden in the DOM and the button
+       below cycles through them. Full pagination through the entire
+       archive lives on /posts. */}}
   {{ $homeCount := 24 }}
-  {{ $homeBatches := chunk 6 (first $homeCount $posts) }}
+  {{ $homeSlice := first $homeCount $posts }}
+  {{ $batchSize := 6 }}
+  {{ $batchCount := int (math.Ceil (div (float (len $homeSlice)) $batchSize)) }}
+  {{ $homeBatches := slice }}
+  {{ range seq $batchCount }}
+    {{ $start := mul (sub . 1) $batchSize }}
+    {{ $batch := $homeSlice | after $start | first $batchSize }}
+    {{ $homeBatches = $homeBatches | append (slice $batch) }}
+  {{ end }}
   <div class="posts-section">
     <div class="posts-header"><h3>All Essays</h3></div>
 
