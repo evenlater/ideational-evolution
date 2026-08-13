@@ -1,5 +1,6 @@
 ---
-title: "Review: Gore Vidal, inheritor of Disraeli's tradition, painted a kind of political self-portrait in \"Julian\""
+title: "Review: Gore Vidal, inheritor of Disraeli's tradition, painted a kind of political self-portrait in <em>Julian</em>"
+subtitle: "Vidal and Julian as aspiring philosopher kings"
 date: 2026-03-29
 draft: false
 tags:
