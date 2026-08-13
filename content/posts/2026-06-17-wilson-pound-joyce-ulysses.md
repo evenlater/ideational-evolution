@@ -1,7 +1,8 @@
 ---
-title: "Woodrow Wilson, Ezra Pound and an homage to James Joyce's \"Ulysses\""
+title: "Woodrow Wilson, Ezra Pound and an homage to James Joyce's *Ulysses*"
+subtitle: "Ezra Pound ruminated on the relationship between literary writing and political writing. Having a Joyce sooner could have spared us a Wilson, he said."
 date: 2026-06-17
-draft: true
+draft: false
 tags:
   - Wilson
 lede: |

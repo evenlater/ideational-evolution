@@ -1,7 +1,8 @@
 ---
 title: "Review: The Disraeli myth is consequential but endangered, a new book shows"
+subtitle: "The prime minister managed to write the single most influential novel in British political history. So why do so few remember him?"
 date: 2026-07-12
-draft: true
+draft: false
 tags:
   - Disraeli
   - Gladstone

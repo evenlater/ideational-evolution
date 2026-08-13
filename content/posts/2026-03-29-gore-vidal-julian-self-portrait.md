@@ -1,7 +1,7 @@
 ---
 title: "Review: Gore Vidal, inheritor of Disraeli's tradition, painted a kind of political self-portrait in *Julian*"
 date: 2026-03-29
-draft: true
+draft: false
 tags:
   - Disraeli
   - Wilson
