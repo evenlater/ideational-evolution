@@ -772,3 +772,104 @@ footer span { color: var(--gold-dim); }
 .hl-yellow {
   color: var(--gold);
 }
+
+/* ── POST CARD · HOVER IMAGE ──
+   Cards with a resolvable image (see heroimage.html) get a
+   background photo that fades in on hover behind a light scrim;
+   the text dims but stays legible on top. Cards without an image
+   keep the original plain background-shift hover. */
+.post-card { position: relative; overflow: hidden; }
+
+.pc-img {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  background-size: cover;
+  background-position: center;
+  transition: opacity 0.35s ease;
+}
+
+.pc-img::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 9, 7, 0.32);
+}
+
+.pc-text { position: relative; transition: opacity 0.35s ease; }
+
+.post-card.has-image:hover .pc-img { opacity: 1; }
+.post-card.has-image:hover .pc-text .card-excerpt { opacity: 0.6; }
+.post-card:not(.has-image):hover { background: var(--surface); }
+
+/* ── HOMEPAGE SHUFFLE CONTROLS ── */
+.shuffle-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.shuffle-btn {
+  font-family: var(--condensed);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+  background: transparent;
+  border: 1px solid var(--gold-dim);
+  padding: 0.7rem 1.4rem;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.shuffle-btn:hover { background: var(--gold); color: var(--bg); }
+
+.shuffle-counter {
+  font-family: var(--condensed);
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+/* ── ARCHIVE PAGINATION ── */
+.site-pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--rule);
+}
+
+.pager-arrow {
+  font-family: var(--condensed);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+  text-decoration: none;
+}
+
+.pager-arrow:hover { color: var(--paper); }
+.pager-arrow.is-disabled { color: var(--rule); pointer-events: none; }
+
+.pager-nums { display: flex; align-items: center; gap: 0.8rem; }
+
+.pager-num {
+  font-family: var(--condensed);
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.pager-num:hover { color: var(--gold); }
+.pager-num.is-current { color: var(--paper); border-bottom: 1px solid var(--gold); padding-bottom: 2px; }
+
+.pager-ellipsis { font-family: var(--condensed); font-size: 0.72rem; color: var(--rule); }
