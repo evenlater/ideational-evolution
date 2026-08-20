@@ -1,7 +1,7 @@
 ---
 title: "Review: *Angel Down*, *To the Lighthouse* and the communicative difficulties of World War I"
 date: 2026-06-07
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2026/06/angel-down-to-lighthouse-and.html"
 tags:
   - Wilson

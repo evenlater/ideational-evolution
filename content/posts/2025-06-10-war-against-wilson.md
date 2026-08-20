@@ -1,7 +1,7 @@
 ---
 title: "The war against Woodrow Wilson reaches the top"
 date: 2025-06-10
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/06/the-new-war-against-woodrow-wilson.html"
 tags:
   - Wilson

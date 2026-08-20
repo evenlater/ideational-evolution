@@ -1,7 +1,7 @@
 ---
 title: "Review: Disraeli's novel *The Young Duke* is half fashion and half passion"
 date: 2025-07-28
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/07/review-disraelis-novel-young-duke-is.html"
 tags:
   - Disraeli

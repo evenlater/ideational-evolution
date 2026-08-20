@@ -1,7 +1,7 @@
 ---
 title: "Review: *Pelham*, a novel by Disraeli's friend Edward Bulwer-Lytton"
 date: 2025-06-30
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/06/review-pelham-by-disraelis-friend.html"
 tags:
   - Disraeli

@@ -1,7 +1,7 @@
 ---
 title: "The two arguments about Woodrow Wilson's racism"
 date: 2025-03-17
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/the-two-arguments-about-woodrow-wilsons.html"
 tags:
   - Wilson

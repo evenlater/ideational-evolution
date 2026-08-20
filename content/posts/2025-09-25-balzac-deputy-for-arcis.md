@@ -1,7 +1,7 @@
 ---
 title: "Review: Balzac in *Deputy for Arcis* attempted to introduce the parliamentary novel before Disraeli"
 date: 2025-09-25
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/09/review-balzacs-deputy-for-arcis.html"
 tags:
   - Disraeli

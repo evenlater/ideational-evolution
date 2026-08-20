@@ -1,7 +1,7 @@
 ---
 title: "Review: Edelman's *Disraeli in Love* and *Disraeli Rising*, mismarketed as 1970s romance novels, died an unfortunate death"
 date: 2026-02-19
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2026/02/review-edelmans-disraeli-in-love-and.html"
 tags:
   - Disraeli

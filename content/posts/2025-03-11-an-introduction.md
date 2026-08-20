@@ -1,7 +1,7 @@
 ---
 title: "Ideational evolution: an introduction"
 date: 2025-03-11
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/ideational-evolution.html"
 tags:
   - Wilson

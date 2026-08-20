@@ -1,7 +1,7 @@
 ---
 title: "A miraculous coincidence: Providence, politics, and the little-remembered first engagement of Woodrow Wilson"
 date: 2025-09-09
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/09/a-miraculous-coincidence-providence.html"
 tags:
   - Wilson

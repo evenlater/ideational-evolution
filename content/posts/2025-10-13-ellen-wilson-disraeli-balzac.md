@@ -1,7 +1,7 @@
 ---
 title: "An aside: Ellen Wilson and Benjamin Disraeli's conflicting views of Balzac reveal much"
 date: 2025-10-13
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/10/an-aside-wilson-and-disraelis-views-of.html"
 tags:
   - Wilson

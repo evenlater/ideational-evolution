@@ -1,7 +1,7 @@
 ---
 title: "Review: Benjamin and Sarah Disraeli's almost-lost novel *A Year at Hartlebury* betrays a statesman's intellectual trajectory"
 date: 2025-11-08
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/11/review-benjamin-and-sarah-disraelis.html"
 tags:
   - Disraeli

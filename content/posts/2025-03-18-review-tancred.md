@@ -1,7 +1,7 @@
 ---
 title: "Review: *Tancred*, a novel by Benjamin Disraeli"
 date: 2025-03-18
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/review-tancred-novel-by-benjamin.html"
 tags:
   - Disraeli

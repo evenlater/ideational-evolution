@@ -1,7 +1,7 @@
 ---
 title: "Review: *The Voyage of Captain Popanilla*, a novella by Benjamin Disraeli"
 date: 2025-05-12
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/05/review-voyage-of-captain-popanilla.html"
 tags:
   - Disraeli

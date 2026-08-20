@@ -1,7 +1,7 @@
 ---
 title: "Wilson, Henry James and anti-German bias: Did Wilson's youthful attitude towards Germans influence his foreign policy?"
 date: 2025-03-14
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/wilson-henry-james-and-anti-german-bias.html"
 tags:
   - Wilson

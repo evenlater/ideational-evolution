@@ -1,7 +1,7 @@
 ---
 title: "Review: Disraeli's *Henrietta Temple* is not biography, but it would be better if it was"
 date: 2025-12-21
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/12/review-disraelis-henrietta-temple-pulls.html"
 tags:
   - Disraeli

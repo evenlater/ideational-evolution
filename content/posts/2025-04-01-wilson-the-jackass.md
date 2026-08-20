@@ -1,7 +1,7 @@
 ---
 title: "Woodrow Wilson & The Jackass"
 date: 2025-04-01
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/04/woodrow-wilson-jackass.html"
 tags:
   - Wilson

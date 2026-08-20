@@ -1,7 +1,7 @@
 ---
 title: "Review: *Sybil*, a novel by Benjamin Disraeli"
 date: 2025-03-15
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/review-sybil-novel-by-benjamin-disraeli.html"
 tags:
   - Disraeli

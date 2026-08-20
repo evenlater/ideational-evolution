@@ -1,7 +1,7 @@
 ---
 title: "Review: *Coningsby*, a novel by Benjamin Disraeli"
 date: 2025-03-11
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/review-coningsby-novel-by-benjamin.html"
 tags:
   - Wilson

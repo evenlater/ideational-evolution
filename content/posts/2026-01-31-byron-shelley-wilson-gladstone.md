@@ -1,7 +1,7 @@
 ---
 title: "An aside: Byron and Shelley’s influence on Wilson and Gladstone"
 date: 2026-01-31
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2026/01/an-aside-byron-and-shelleys-influence.html"
 tags:
   - Wilson

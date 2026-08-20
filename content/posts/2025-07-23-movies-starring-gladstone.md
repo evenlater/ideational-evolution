@@ -1,7 +1,7 @@
 ---
 title: "Why aren't there any movies starring Gladstone?"
 date: 2025-07-23
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/07/why-arent-there-any-movies-starring.html"
 tags:
   - Gladstone

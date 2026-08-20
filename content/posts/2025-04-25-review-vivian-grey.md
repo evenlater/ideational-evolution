@@ -1,7 +1,7 @@
 ---
 title: "Review: *Vivian Grey*, a novel by Benjamin Disraeli"
 date: 2025-04-25
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/04/review-vivian-grey-novel-by-benjamin.html"
 tags:
   - Gladstone

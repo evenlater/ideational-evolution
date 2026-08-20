@@ -1,7 +1,7 @@
 ---
 title: "He learned it from his Dad: Woodrow Wilson's opposition to inalienable rights"
 date: 2025-05-02
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/05/he-learned-it-from-his-dad-woodrow.html"
 tags:
   - Wilson

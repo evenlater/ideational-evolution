@@ -1,7 +1,7 @@
 ---
 title: "Fired for “Calhoun views”: 19th Century cancel culture and Woodrow Wilson’s relationship to a quintessential southerner"
 date: 2025-03-24
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/fired-for-calhoun-views-woodrow-wilsons.html"
 tags:
   - Wilson

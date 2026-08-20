@@ -1,7 +1,7 @@
 ---
 title: "Turning Tory: Disraeli domesticates the scandalous Lord Byron in his novel *Venetia*"
 date: 2026-01-27
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2026/01/turning-tory-disraeli-domesticates.html"
 tags:
   - Wilson

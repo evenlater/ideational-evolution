@@ -1,7 +1,7 @@
 ---
 title: "Review: Disraeli's novel *Contarini Fleming* is torn between competing temperaments"
 date: 2025-08-26
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/08/the-whole-romantic-sham-bernard-its.html"
 tags:
   - Disraeli

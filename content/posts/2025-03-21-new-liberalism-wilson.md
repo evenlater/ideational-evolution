@@ -1,7 +1,7 @@
 ---
 title: "The impact of Britain's \"New Liberalism\" on Woodrow Wilson"
 date: 2025-03-21
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/the-impact-of-britains-new-liberalism.html"
 tags:
   - Wilson

@@ -1,7 +1,7 @@
 ---
 title: "Review: *Lothair*, a novel by Benjamin Disraeli"
 date: 2025-03-22
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/review-lothair-novel-by-benjamin.html"
 tags:
   - Gladstone

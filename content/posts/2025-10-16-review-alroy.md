@@ -1,7 +1,7 @@
 ---
 title: "Review: Disraeli's *Alroy* prefigures modern Zionism. Did he see himself in the Messianic fantasy?"
 date: 2025-10-16
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/10/review-disraelis-alroy-prefigures.html"
 tags:
   - Gladstone

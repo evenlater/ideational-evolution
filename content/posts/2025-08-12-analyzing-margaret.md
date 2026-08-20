@@ -1,7 +1,7 @@
 ---
 title: "Analyzing \"Margaret,\" an almost-lost short story fragment by Woodrow Wilson"
 date: 2025-08-12
-draft: true
+draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/08/analyzing-margaret-almost-lost-short.html"
 tags:
   - Wilson
