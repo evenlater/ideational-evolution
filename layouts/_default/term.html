@@ -1,15 +1,10 @@
 {{ define "main" }}
 <div class="container">
   <div class="posts-section">
-    <div class="posts-header"><h3>Tagged: {{ .Title }}</h3></div>
+    <div class="posts-header"><h3>Tagged: {{ .Title | markdownify }}</h3></div>
     <div class="post-grid">
       {{ range .Pages.ByDate.Reverse }}
-      <article class="post-card">
-        <p class="card-tag">{{ with .Params.tags }}{{ index . 0 }}{{ end }} · {{ .Date.Format "January 2006" }}</p>
-        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-        <p class="card-excerpt">{{ .Summary }}</p>
-        <p class="card-date">{{ .Date.Format "January 2, 2006" }}</p>
-      </article>
+        {{ partial "post-card.html" . }}
       {{ end }}
     </div>
   </div>

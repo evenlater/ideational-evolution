@@ -897,3 +897,9 @@ footer span { color: var(--gold-dim); }
 .pager-num.is-current { color: var(--paper); border-bottom: 1px solid var(--gold); padding-bottom: 2px; }
 
 .pager-ellipsis { font-family: var(--condensed); font-size: 0.72rem; color: var(--rule); }
+
+/* Fix: [hidden] loses to .post-grid's display:grid under the CSS
+   cascade (author-origin rules always beat the UA default for [hidden],
+   regardless of specificity) -- this silently broke the homepage's
+   "one batch visible at a time" shuffle once post count grew past 6. */
+.grid-batch[hidden] { display: none !important; }
