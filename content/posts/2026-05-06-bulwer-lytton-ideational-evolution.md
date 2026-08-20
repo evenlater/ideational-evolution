@@ -7,6 +7,23 @@ original_url: "https://ideationalevolution.blogspot.com/2026/05/edward-bulwer-ly
 tags:
   - Disraeli
 sources:
+  - blake_disraeli
+  - bulwer_lytton_england_and_the_english
+  - cline_disraeli_at_high_wycombe_the
+  - davis_disraeli
+  - disraeli_endymion_the_bradenham_edition
+  - disraeli_letters_volumes_1_2_and
+  - disraeli_lord_beaconsfields_correspondence_with_his
+  - disraeli_whigs_and_whiggism_political_writings
+  - lytton_lytton_the_life_of_edward_bulwer
+  - edelman_disraeli_in_love
+  - escott_edward_bulwer_first_baron_lytton
+  - fraser_perilous_question_reform_or_revolution
+  - harden_the_letters_and_private_papers
+  - mitchell_bulwer
+  - monypenny_disraeli
+  - sadlier_bulwer_a_panorama
+  - smith_disraeli
 ---
 
 Edward Bulwer-Lytton, who hated to have fun poked at him, has been the subject of jokes and satire for almost 200 years. A prolific novelist in the 19th century whose sales challenged those of his friend Charles Dickens and who was also a member of Parliament and served as Colonial Secretary, he is mostly forgotten today. Everywhere, that is, except this blog, where he has made [repeated](https://ideationalevolution.blogspot.com/search?q=bulwer) [appearances](https://ideationalevolution.blogspot.com/2025/06/review-pelham-by-disraelis-friend.html), and the Bulwer-Lytton Fiction Contest, a bad writing competition named for him because he once started a novel with the infamous words “It was a dark and stormy night.” The contest ran for 42 years until last year, [when it closed because it took too much work to administer](https://www.npr.org/2025/08/12/nx-s1-5496491/remembering-the-bulwer-lytton-fiction-contest-a-contest-for-bad-writing). The famous line has more than once been cited in a “Jeopardy!” question and made immortal by Snoopy, who recurrently begins his own writing attempts with that opening. In his own day, some of the fun poked at Bulwer-Lytton came after he extended his already overlong name from Edward George Earle Lytton Bulwer to Edward George Earle Lytton Bulwer-Lytton. (His mother had asked him to adopt her maiden name upon her death, and as an unusually devoted son he consented by appending the second instance of “Lytton.”) William Makepeace Thackeray, author of the 1848 novel *Vanity Fair*, mocked him by naming a character “E.L.B.L.” in a satirical novel, and even went as far in a letter to a Mrs. Bryan Walker Procter to refer to him as “E. L. B. L. B B. L L. B B L B L B L B B.” The initials ran all the way to the end of the margin of the letter and continued on the back side (Harden 200).* Benjamin Disraeli also parodied his friend’s name confusions in the novel *Endymion* by inventing a character named Bertie Tremaine with a brother inexplicably named Tremaine Bertie, teasing Bulwer-Lytton and his own brother, a successful parliamentarian who retained the surname Bulwer but did not feel the need to append the maiden name Lytton. Disraeli’s novel was also one of the instances in which Bulwer-Lytton was mocked for one of the most interesting things about him: his malleable politics. Both Bertie and Bulwer-Lytton began their careers as left-wing “Radicals” and ended up as ambiguous conservatives in Parliament. The story of Bulwer-Lytton’s transition is not just comedy, but also an interesting tale that is right up the proverbial alley for this blog, which chronicles “ideational evolutions” for multiple figures in history and for the history of ideas itself. Bulwer-Lytton’s evolution is particularly interesting for these purposes because of his influence on the future prime minister Disraeli, and subsequently Disraeli’s impact on him.
@@ -50,37 +67,3 @@ Disraeli pushed Bulwer-Lytton to the right in the 1840s and 1850s, just as Bulwe
 
 ## Note
 *- The initials are reproduced here just as they are in Harden’s printing of the letter, including the periods. Biographer Leslie Mitchell misattributes the initials to Thackeray’s satire “George de Barnwell,” but correctly identifies in the footnotes the page of the Thackeray letters that contain this delicious detail.
-## Select Bibliography
-Blake, Robert. *Disraeli.* New York: St. Martin’s Press, 1966.
-
- Bulwer-Lytton, Edward. Standish Meacham, Ed. *England and the English.* University of Chicago Press, 1970.
-
- Cline, C.C.L. “Disraeli at High Wycombe: The Beginning of a Great Political Career.” *Studies in English*, 1942, No. 22 pp. 124-144. University of Texas Press.
-
- Davis, Richard W. *Disraeli.* Boston: Little, Brown and Company, 1976.
-
- Disraeli, Benjamin. (Guedalla, Phillip, ed.) *Endymion. The Bradenham Edition.* London: Peter Davies,1926.
-
- Disraeli, Benjamin. *Letters, Volume 1.* University of Toronto Press, 1982.
-
- Disraeli, Benjamin. *Lord Beaconsfield’s Correspondence with His Sister, 1832-1852.* London: John Murray, 1886.
-
- Disraeli, Benjamin. *Whigs and Whiggism: Political Writings.* New York: The MacMillan Company, 1914.
-
- The Earl of Lytton. *The Life of Edward Bulwer, First Lord Lytton, Volumes 1 and 2.* London: MacMIllan and Co., 1913.
-
-Edelman, Maurice. *Disraeli in Love.* New York: Stein and Day, 1972.
-
- Escott, T.H.S. *Edward Bulwer, First Baron Lytton of Knebworth.* London: George Routledge and Sons, Ltd., 1910.
-
- Fraser, Antonia. *Perilous Question: Reform or Revolution? Britain on the Brink, 1832.* New York: BRS Publications, 2013.
-
- Harden, Edgar F., Ed. *The Letters and Private Papers of William Makepeace Thackeray: A Supplement to Gordon N. Roy, The Letters and Private Papers of William Makepeace Thackeray Volume I*. Ne York: Routledge, 1994.
-
- Mitchell, Leslie. *Bulwer Lytton: The Rise and Fall of a Victorian Man of Letters.* London: Hambledon and London, 2002.
-
- Monypenny, William Flavelle; Buckle, George Earl. *The Life of Benjamin Disraeli. Volumes I and II.* New York: MacMillan, 1929.
-
-Sadlier, Michael. *Bulwer: A Panorama.* Boston: Little, Brown, and Company, 1931.
-
-Smith, Paul. “Disraeli’s Politics.” *Transactions of the Royal Historical Society,* Vo. 37, pp. 65-85, 1987.

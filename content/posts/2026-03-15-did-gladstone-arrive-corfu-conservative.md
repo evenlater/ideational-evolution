@@ -6,6 +6,33 @@ draft: false
 tags:
   - Gladstone
   - Disraeli
+sources:
+  - aldous_the_lion_and_the_unicorn
+  - ashton_one_hot_summer_dickens_darwin
+  - beales_england_italy
+  - bebbington_gladstone
+  - crosby_the_two_mr_gladstones_a
+  - gladstone_juventus_mundi_the_gods_and
+  - gladstone_homer
+  - hawkins_parliament
+  - homer_pope_the_odyssey
+  - jagger_gladstone
+  - jenkins_gladstone
+  - kelley_transatlantic
+  - magnus_gladstone
+  - matthew_gladstone_1809_1898
+  - matthew_the_gladstone_diaries_volumes_5
+  - mitchell_bulwer
+  - morley_gladstone
+  - parry_the_rise_and_fall_of
+  - pointon_w_e_gladstone_as_an
+  - pine_the_irish_times
+  - shannon_gladstone_volume_one_1809_1865
+  - southgate_the_passing_of_the_whigs
+  - stanmore_sidney_herbert_lord_herbert_of
+  - turner_greek_heritage
+  - williams_the_rise_of_gladstone_to
+
 ---
 
 “The morning brought us the sight of the grand Acroceraunian range: with brilliant sun & mild air,” wrote William Ewart Gladstone in his diary of November 24, 1858 as he sailed into the Ionian Islands for his strange new job as the Lord High Commissioner Extraordinary of the tiny British colonies, an assignment that led to ridicule from enemies and embarrassment from friends. “Then Corfu: which I do not think is like a ῥινόν from the North: but Homer probably meant a mirage.” The footnotes to Gladstone’s diary explain that ῥινόν in *The Odyssey* is variously translated as “ox-skin, hence shield, or mist, hence, in Gladstone’s view, mirage.” Gladstone was thinking of Odysseus’s trip into what is now the island of Corfu in Book Five of *The Odyssey*:

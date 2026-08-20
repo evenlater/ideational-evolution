@@ -7,6 +7,15 @@ original_url: "https://ideationalevolution.blogspot.com/2025/05/review-voyage-of
 tags:
   - Disraeli
 sources:
+  - dawson_the_first_latin_american_debt
+  - dyer_british_satire_and_the_politics
+  - disraeli_coningsby_or_the_new_generation
+  - disraeli_popanilla_and_other_stories
+  - jackson_impunity_and_capitalism_the_afterlives
+  - monypenny_disraeli
+  - shrimpton_sybil
+  - unknown_reviewer_literary_gazette
+  - vincent_disraeli
 ---
 
 This year marks the 200th anniversary of the Panic of 1825, a financial cataclysm caused in part by rampant speculation in Latin American stocks that wiped out many people including a young Benjamin Disraeli. In the three years before the crash, seven nations in South and Central America raised 20 million pounds, of which 19 million of those bonds were in default by 1829. More than 100 British banks closed by the end of 1826, according to recent scholarship (Jackson 2022; see bibliography below). Disraeli and his trading partners lost thousands of pounds investing in South American mining companies, a loss which when combined with his losses thereafter on a failed newspaper venture amounts to millions of dollars today. These events left Disraeli in debt almost to the day he died. He suffered a nervous breakdown after he wrote a sequel to his first novel *Vivian Grey*, which led him to write a relatively little-remembered 1828 satirical novella called *The Voyage of Captain Popanilla*, which biographer William Monypenny called the future prime minister’s “first political essay.”
@@ -51,24 +60,3 @@ The novella includes one digression of a sort we saw the previous year in his *V
 Not everyone likes *Popanilla*. In 1990 John Vincent described the novella, “a product of Disraeli’s years of nervous breakdown,” as “a quaint, disrespectful, semi-radical, not very funny or biting satire on British society.” A reviewer at the time the novella came out wrote, "at present we must dismiss it as a *jeu d'esprit* of considerable merit, though unequal, and not so racy as a Swift of 1828 might have made it." But Gary Dyer in a monograph on British satire describes it as an important work because it appeared as verse and prose satires were disappearing in the 1820s, which he says happened in part because the Panic of 1825 caused publishers to pare back less popular works and therefore the publication of satires like this one. That is apparently one reason Disraeli began writing in the then-more popular genre of "silver fork novels," or stories of aristocratic life, including the next novel he wrote after this one, *The Young Duke,* which he wrote for financial reasons. When Isaac D'Israeli, his father, heard he'd written a book by that title he is reported to have asked: “What does Ben know of dukes?”
 
 If one is prepared with some familiarity with the politics of the 1820s, however, *Popanilla* is quite entertaining and illuminating as to the mindset of the young Disraeli after the crash of 1825.
-
-**---
-
-Select bibliography**
-Dawson, Frank G. *The First Latin American Debt Crisis: The City of London and the 1822-25 Loan Bubble.*Yale University Press, 1990.
-
-Dyer, Gary. *British Satire and the Politics of Style, 1789-1832.* Cambridge University Press, 1997.
-
-Disraeli, Benjamin. *Coningsby; or the New Generation,* from the Bradenham Edition of the Novels of Disraeli, Peter Davies, 1926.
-
-Disraeli, Benjamin. *Popanilla and Other Stories*, from The Bradenham Edition of the Novels of Disraeli, Peter Davies, 1926.
-
-Jackson, Trevor. *Impunity and Capitalism: The Afterlives of European Financial Crises, 1690-1830.* University of Cambridge Press, 2022.
-
-Monypenny, William F. and Buckle, George. *The Life of Benjamin Disraeli.* MacMillan, 1929.
-
-Shrimpton, Nicholas, ed. The Oxford World Classics edition of Benjamin Disraeli’s *Sybil.*2009.
-
-Unknown reviewer. *Literary Gazette*, No. 594, June 7 1828.
-
-Vincent, John. *Disraeli.* Oxford University Press, 1990.

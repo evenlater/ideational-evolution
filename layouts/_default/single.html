@@ -39,7 +39,11 @@
         {{ $bookID := . }}
         {{ with index hugo.Data.books $bookID }}
         <li class="bib-item">
-          {{ .author }}. <em>{{ .title }}</em>{{ with .edition }}, {{ . }}{{ end }}. {{ .publisher }}, {{ .year }}.
+          {{ with .citation }}
+            {{ . | markdownify }}
+          {{ else }}
+            {{ .author }}. <em>{{ .title }}</em>{{ with .edition }}, {{ . }}{{ end }}.{{ with .city }} {{ . }}:{{ end }} {{ .publisher }}, {{ .year }}.
+          {{ end }}
         </li>
         {{ end }}
         {{ end }}

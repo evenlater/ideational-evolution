@@ -7,6 +7,59 @@ tags:
   - Wilson
   - Disraeli
 sources:
+  - allen_feeling_cosmopolitan_the_novel_politician
+  - allen_novel_poetry_the_shape_of
+  - brandes_lord_beaconsfield
+  - beaton_byrons_war_romantic_rebellion_greek
+  - blake_disraeli
+  - blake_disraelis_grand_tour
+  - bloomfield_disraeli
+  - boyes_queen_of_a_fantastic_realm
+  - bradford_disraeli
+  - braun_london_george_allen_unwin_1981
+  - byron_the_major_works_including_don
+  - byron_the_great_romantics_selected_poems
+  - cesarani_disraeli_the_novel_politician
+  - cochran_aspects_of_don_juan
+  - cousins_disraeli_and_the_politics_of
+  - crompton_byron_and_greek_love_homophobia
+  - davis_disraeli
+  - disraeli_the_early_novels_of_benjamin
+  - disraeli_letters_volumes_1_2_and
+  - disraeli_venetia_the_bradenham_edition
+  - disraeli_whigs_and_whiggism_political_writings
+  - diniejko_benjamin_disraeli_s_venetia_as
+  - elfenbein_byron_and_the_victorians
+  - feuchtwanger_disraeli
+  - flavin_benjamin_disraeli_the_novel_as
+  - guiccioli_my_recollections_of_lord_byron
+  - gilmour_the_making_of_the_poets
+  - gross_byron_the_erotic_liberal
+  - grosskurth_byron_the_flawed_angel
+  - hawkins_evoking_byron_from_manuscript_to
+  - hay_mr_and_mrs_disraeli_a
+  - hibbert_disraeli_the_victorian_dandy_who
+  - holmes_shelley_the_pursuit
+  - hurd_disraeli_or_the_two_lives
+  - jamison_touched_with_fire_manic_depressive
+  - jerman_the_young_disraeli
+  - kirsch_benjamin_disraeli
+  - kuhn_the_politics_of_pleasure_a
+  - levine_benjamin_disraeli
+  - marchand_byron_a_biography_volume_1
+  - masefield_peacocks_and_primroses_a_survey
+  - monypenny_disraeli
+  - more_life_of_lord_byron_volume
+  - okell_disraeli_the_romance_of_politics
+  - parry_benjamin_disraeli
+  - richmond_the_self_fashioning_of_disraeli
+  - ridley_the_young_disraeli_1804_1846
+  - rutherford_byron_the_critical_heritage
+  - schwarz_disraelis_fiction
+  - smith_disraeli_a_brief_life
+  - stewart_disraelis_novels_reviewed_1826_1968
+  - vincent_disraeli
+  - weintraub_disraeli_a_biography
 ---
 
 When Benjamin Disraeli, just months from at last becoming a member of parliament after years of trying, finished his novel *Venetia* in 1837 he sent a copy to his friend William Beckford. He apologized that Beckford had never received his previous novel, *Henrietta Temple*, admitting “The book was not worth reading.” However, he said, *Venetia* “is more in our way, tho’ adulterated enough with commonplace, I hope, to be popular.” Disraeli did not say why the new novel was "in our way," but it likely concerned their common interest in Lord Byron, the famously rakish poet upon whom Disraeli had largely modeled his persona in the first 30 years of his life – and on whose life the novel *Venetia* is based. The sense in which Disraeli had “adulterated” Byron’s story hinges on a cousin of Byron’s named Mary Chaworth, his childhood companion and lifelong "one that got away." The great dandy Beau Brummel said he himself had heard Byron "romancing about her for hours." Byron told a friend that if he had married Chaworth "perhaps the whole tenor of my life would have been different." (Both lines are quoted in Ian Gilmour's 2002 biography *The Making of the Poets: Byron and Shelley in Their Own Time.*)
@@ -60,110 +113,3 @@ Interestingly, it is not Byron's libertine ways that Disraeli criticizes in this
 > “But Lord Cadurcis had been guilty of the offence which, of all offences, is punished most severely; Lord Cadurcis had been overpraised. He had excited too warm an interest: - and the public, with its usual justice, was resolved to chastise him for its own folly.”
 
 Still, Disraeli was one of Byron’s biggest fans. He is blaming the public more than Byron for their overestimation of him. This distinction helps explain an ambivalence that is apparent in the letter with which I opened this article. It reveals a conflicted young man who had enjoyed the company of the literary radicals and maybe even one who is anxious about leaving them to join the Tory party. Beckford, the author of the novel *Vathek*, was himself a radical who was approached by Utilitarian writer Jeremy Bentham to make a case for abolishing the death penalty for “buggery.” He also had fled England, much like Byron, because of rumor and scandal. Disraeli obviously wished to avoid Byron and Beckford's fate. He may have wished to show he understood Byron without being identified with him. However, Disraeli had originally built for himself a reputation as a Radical, having secured letters of endorsement for Parliament in his first election in 1832 from two of the major Radicals of the day, thanks to his Radical friend Edward Bulwer-Lytton, a fellow novelist, dandy and man of letters. Those Radicals were appalled to see how conservative Disraeli was in the end, and one of them withdrew his endorsement. However, Disraeli’s wishing to write a novel in Beckworth’s “way” might highlight the extent to which his heart was still in radicalism, even as his father’s Toryism won the day. Thus, *Venetia* is less a rejection of Lord Byron than a protection and a transformation. Disraeli’s domestication of Byron, through the story of Mary Chaworth, can even be read as a hint that at least to his radical friends Disraeli was going into Tory politics as something of a Trojan horse, a conservative concealing the sometime liberal within. Disraeli strongly valued the conservation of institutions like the monarchy, the church and the aristocracy. But he was after all only a few years older than he’d been when he championed the democratic ideal over the aristocratic one. When he named his novel *Venetia*, Disraeli was using a story of lost idyllic domesticity to bring his Byronic hopes for social justice with him into the world of Tory conservatism.
-
-## Selected Bibliography
-Allen, Emily; Felluga, Dino Franco. “Feeling Cosmopolitan: The Novel Politician After Byron.” *European Romantic Review.* Vol. 20, No. 5, December 2009, pp. 651-659.
-
-Allen, Emily; Felluga, Dino Franco. *Novel-Poetry: The Shape of the Real and the Problem of Form.* Oxford University Press, 2024.
-
-Brandes, Georg. *Lord Beaconsfield.* New York: Crowell, 1966.
-
-Beaton, Roderick. *Byron’s War: Romantic Rebellion, Greek Revolution.* Cambridge University Press, 2013.
-
-Blake, Robert. *Disraeli.* New York: St. Martin’s Press, 1966.
-
-Blake, Robert. *Disraeli’s Grand Tour.* New York: Oxford University Press, 1982.
-
-Bloomfield. Paul. *Disraeli.* *Writers and Their Work: No. 138.* Longman Group Ltd., 1961.
-
-Boyes, Megan. *Queen of a Fantastic Realm: A Biography of Mary Chaworth.* Derby: Abbey Street Works, 1986.
-
-Bradford, Sarah. *Disraeli.* New York: Stein and Day, 1983.
-
-Braun, Thom. London: Goerge Allen & Unwin, 1981.
-
-Byron, Lord. (McGann, Jerome, ed.) *The Major Works including Don Juan and Childe Harold’s Pilgrimage*. *Oxford’s World Classics.* Oxford University Press, 2008.
-
-Byron, Lord; Shelley, Percy Bysshe; Keats, John. *The Great Romantics: Selected Poems.* New York: Quality Paperback Book Club, 1993.
-
-Cesarani, David. *Disraeli: The Novel Politician.* Yale University Press, 2016.
-
-Cochran, Peter, ed. *Aspects of Don Juan.* Cambridge Scholars Publishing, 2013.
-
-Cousins, A.D.; Napton, Dani. *Disraeli and the Politics of Fiction.* Brill, 2022.
-
-Crompton, Louis. *Byron and Greek Love: Homophobia in 19th Century England.* Los Angeles: University of California Press, 1985.
-
-Davis, Richard W. *Disraeli.* Toronto: Little, Brown and Company, 1976.
-
-Disraeli, Benjamin. (Hawkins, Ann R. and Kraver, Jeraldine R., eds.) *The Early Novels of Benjamin Disraeli, Volume 6: Venetia.* London: Pickering & Chatto, 2004.
-
-Disraeli, Benjamin. *Letters, Volumes 1, 2 and 3.* University of Toronto Press, 1982.
-
-Disraeli, Benajmin. (Guedalla, Phillip, ed.) *Venetia. The Bradenham Edition.* London: Peter Davies,1926.
-
-Disraeli, Benjamin. *Whigs and Whiggism: Political Writings.* New York: MacMillan, 1914.
-
-Diniejko, Andrzej. "Benjamin Disraeli's *Venetia* as a Byronic Roman-a-clef," VictorianWeb.org. Last modified April 2, 2016.
-
-Elfenbein, Andrew. *Byron and the Victorians.* Cambridge University Press, 1998.
-
-Feuchtwanger, Edward. *Disraeli.* London: Hodder Education, 2000.
-
-Flavin, Michael. *Benjamin Disraeli: The Novel as Political Discourse.* Sussex Academic Press, 2005.
-
-Guiccioli, Teresa. *My Recollections of Lord Byron.* Originally published 1868.
-
-Gilmour, Ian. *The Making of the Poets: Byron and Shelley in Their Time.* New York: Avalon Publishing Group, 2002.
-
-Gross, Jonathan David. *Byron: The Erotic Liberal.* Rowan & Littlefield Publishers, 2001.
-
-Grosskurth, Phyllis. *Byron: The Flawed Angel.* London: Hodder and Stoughton, 1997.
-
-Hawkins, Ann R. “Evoking Byron from Manuscript to Print: Benjamin Disraeli’s “Venetia.” *The Papers of the Bibliographic Society of America,* Volume 98, No. 4, December 2004, pp. 449 to 476.
-
-Hay, Daisy. *Mr. and Mrs. Disraeli: A Strange Romance.* New York: Farrar, Strauss & Giroux, 2015.
-
-Hibbert, Christopher. *Disraeli: The Victorian Dandy Who Became Prime Minister.* New York: Palgrave MacMillan, 2006.
-
-Holmes, Richard. *Shelley: The Pursuit.* New York: EF Dutton & Co, Inc., 1975.
-
-Hurd, Douglas; Young, Edward. *Disraeli: or the Two Lives.* London:Weidenfeld & Nicholson, 2013.
-
-Jamison, Kay Redfield. *Touched With Fire: Manic-Depressive Illness and the Artistic Temperament.* New York: MacMIllan, Inc., 1993.
-
-Jerman, B.R. *The Young Disraeli.* Princeton University Press, 1960.
-
-Kirsch, Adam. *Benjamin Disraeli*. New York: Schocken Books, 2008.
-
-Kuhn, William. *The Politics of Pleasure: A Portrait of Benjamin Disraeli.* Simon & Schuster, 2006.
-
-Levine, Richard A. *Benjamin Disraeli.* New York: Twayne Publishers, 1968.
-
-Marchand, Leslie A. *Byron: A Biography, Volume 1.* New York: Alfred A. Knopf, 1957.
-
-Masefield, Muriel. *Peacocks and Primroses: A Survey of Disraeli’s Novels.* London: Geoffrey Bles, 1953.
-
-Monypenny, William Flavelle; Buckle, George Earl. *The Life of Benjamin Disraeli. Volumes 1 and 2.* New York: MacMillan, 1929.
-
-More, Thomas. *Life of Lord Byron, Volume 1. With His Letters and Journals,* originally published 1830.
-
-O’Kell, Robert. *Disraeli: The Romance of Politics.* University of Toronto Press, 2013.
-
-Parry, Jonathan. *Benjamin Disraeli.* University of Oxford Press, 2004.
-
-Richmond, Charles; Smith, Paul, eds. *The Self-Fashioning of Disraeli 1818-1851.* Cambridge University Press, 1998.
-
-Ridley, Jane. *The Young Disraeli. 1804-1846.* New York: Crown Publishers, 1995.
-
-Rutherford, Andrew, ed. *Byron: The Critical Heritage.* New York: Barnes & Noble, 1970.
-
-Schwarz, Daniel R. *Disraeli’s Fiction.* London: MacMillan Press, 1979.
-
-Smith, Paul. *Disraeli: A Brief Life.* Cambridge University Press, 1996.
-
-Stewart, RW, ed. *Disraeli’s Novels Reviewed, 1826-1968.* Metuchen, NJ: The Scarecrow Press, Inc., 1975.
-
-Vincent, John. *Disraeli.* Oxford University Press, 1990.
-
-Weintraub, Stanley. *Disraeli: A Biography.* New York: Truman Talley Books, 1993.
