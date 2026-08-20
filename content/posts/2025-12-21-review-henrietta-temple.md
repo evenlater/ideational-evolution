@@ -1,6 +1,5 @@
 ---
-title: "Review: Disraeli's *Henrietta Temple* is not biography, but it would be 
-better if it was"
+title: "Review: Disraeli's *Henrietta Temple* is not biography, but it would be better if it was"
 subtitle: "A dandy politician-novelist in deep debt choosing an older married woman in 1837? Fascinating. Too bad that’s not the story Disraeli’s love novel tells."
 date: 2025-12-21
 draft: false
