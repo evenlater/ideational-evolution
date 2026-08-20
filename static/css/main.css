@@ -13,7 +13,7 @@
   --muted: #7a7060;
   --rule: #2e2b25;
   --display: 'DM Serif Display', Georgia, serif;
-  --body: 'DM Serif Text', Georgia, serif;
+  --body: 'EB Garamond', Georgia, serif;
   --condensed: 'Barlow Condensed', sans-serif;
 }
 
@@ -192,6 +192,7 @@ nav a.active { color: var(--paper); }
     "img"
     "sub"
     "byline"
+    "body"
     "cta";
 }
 
@@ -202,6 +203,7 @@ nav a.active { color: var(--paper); }
     "title img"
     "sub   img"
     "byline img"
+    "body  img"
     "cta   img";
 }
 
@@ -210,6 +212,14 @@ nav a.active { color: var(--paper); }
 .hero-sub { grid-area: sub; }
 .hero-byline { grid-area: byline; }
 .hero-cta { grid-area: cta; align-self: start; }
+.hero-body { grid-area: body; }
+
+.hero.has-image .hero-body {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 
 .hero-img { grid-area: img; }
 
@@ -806,8 +816,10 @@ footer span { color: var(--gold-dim); }
       "img"
       "sub"
       "byline"
+      "body"
       "cta";
   }
+  .hero.has-image .hero-body { -webkit-line-clamp: 4; }
   .hero.has-image .hero-title { font-size: clamp(1.5rem, 5vw, 2rem); }
   .post-grid { grid-template-columns: 1fr 1fr; }
   .about-inner { grid-template-columns: 1fr; gap: 1.5rem; }
@@ -817,7 +829,9 @@ footer span { color: var(--gold-dim); }
 
 @media (max-width: 600px) {
   .post-grid { grid-template-columns: 1fr; }
-  .single-post { padding: 2.5rem 1.25rem; }
+  .single-post { padding: 1.75rem 1rem; }
+  .post-header { margin-bottom: 1.75rem; }
+  .hero { padding: 2rem 0; }
   .post-body { font-size: 1.05rem; line-height: 1.95; }
 }
 /* {{< hl >}}word{{< /hl >}} — turns the enclosed text the site's gold accent color. */

@@ -14,6 +14,7 @@
     {{ end }}
     {{ with .Params.subtitle }}<p class="hero-sub">{{ . }}</p>{{ end }}
     <p class="hero-byline">By {{ $.Site.Params.author }} &nbsp;·&nbsp; {{ .Date.Format "January 2, 2006" }}</p>
+    <p class="hero-body">{{ .Summary }}</p>
     <a href="{{ .Permalink }}" class="hero-cta read-more">Continue Reading</a>
   </article>
   {{ end }}
