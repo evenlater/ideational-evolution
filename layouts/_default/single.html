@@ -57,7 +57,7 @@
         {{ with partial "heroimage.html" . }}
         <span class="nav-preview"><img src="{{ . | relURL }}" alt="" loading="lazy"></span>
         {{ end }}
-        <span class="post-nav-text">← {{ .Title }}</span>
+        <span class="post-nav-text">← {{ .Title | markdownify }}</span>
       </a>
       {{ end }}
       {{ with .NextInSection }}
@@ -65,7 +65,7 @@
         {{ with partial "heroimage.html" . }}
         <span class="nav-preview"><img src="{{ . | relURL }}" alt="" loading="lazy"></span>
         {{ end }}
-        <span class="post-nav-text">{{ .Title }} →</span>
+        <span class="post-nav-text">{{ .Title | markdownify }} →</span>
       </a>
       {{ end }}
     </nav>
