@@ -1,0 +1,73 @@
+---
+title: "Review: *The Voyage of Captain Popanilla*, a novella by Benjamin Disraeli"
+date: 2025-05-12
+draft: true
+original_url: "https://ideationalevolution.blogspot.com/2025/05/review-voyage-of-captain-popanilla.html"
+tags:
+  - Disraeli
+sources:
+---
+
+This year marks the 200th anniversary of the Panic of 1825, a financial cataclysm caused in part by rampant speculation in Latin American stocks that wiped out many people including a young Benjamin Disraeli. In the three years before the crash, seven nations in South and Central America raised 20 million pounds, of which 19 million of those bonds were in default by 1829. More than 100 British banks closed by the end of 1826, according to recent scholarship (Jackson 2022; see bibliography below). Disraeli and his trading partners lost thousands of pounds investing in South American mining companies, a loss which when combined with his losses thereafter on a failed newspaper venture amounts to millions of dollars today. These events left Disraeli in debt almost to the day he died. He suffered a nervous breakdown after he wrote a sequel to his first novel *Vivian Grey*, which led him to write a relatively little-remembered 1828 satirical novella called *The Voyage of Captain Popanilla*, which biographer William Monypenny called the future prime minister’s “first political essay.”
+
+A striking essay it is, using political allegory to lampoon what he viewed as liberal orthodoxies, both anticipating and contradicting some of his later writings. It is a very interesting read, though a review like this one might help for those who aren’t yet familiar with 1820s politics.
+
+The novella, I suspect, was largely inspired by the most spectacular story from the Latin American bubble. A reputed swindler who called himself Gregor MacGregor was arrested in September 1825 for selling government bonds for a fictional land in Central America he called Poyais. He had traveled to an area there and received a land grant from one of the parties that considered themselves a ruling authority. He declared it a new nation, and himself its ruler, and then traveled back to Britain to sell securities in it and tickets to 200 emigrants who subsequently sailed to “Poyais” to make their fortune, only to find there was no such place as Poyais. Fewer than 50 of them made it back to Britain in the end, the rest dying of diseases and conflicts with local natives. *Popanilla*, which stylistically is inspired by satiric works like Jonathan Swift’s *Gulliver’s Travels* and Voltaire’s *Candide*, tells the story of a “savage” named Popanilla from an island country called Fantaisie, which may have been inspired by Poyais. Popanilla in the end is arrested, like Gregor MacGregor, apparently for making up the island in a plot to swindle investors.
+
+Disraeli’s so-called “political trilogy” of *Coningsby, Sybil* and*Tancred* is often considered a beginning point in the history of the political novel, but as *Popanilla* shows Disraeli was not a stranger to political fiction even before those books. His only completed novel before *Popanilla*, *Vivian Grey*, contained almost no specificity about his political positions. By contrast, *Popanilla* is a virtual doctrinaire pamphlet in fictional form.
+
+Perhaps Disraeli began his novella by asking himself the question, what if Poyais had been a real place? At the beginning of the novella we are informed by the narrator that Fantaisie is populated by “an innocent and a happy, though a voluptuous and ignorant race. They have no manufactures, no commerce, no agriculture, and no printing-presses.” This state of innocence changes when Popanilla discovers a crate of books from the Society for the Diffusion of Useful Knowledge (a real organization founded by Henry Lord Brougham), reads them all, and is converted to Benthamite Utilitarianism, a liberal creed Disraeli detested and satirizes mercilessly here. Popanilla comes to believe “that man was not born for himself, but for society; that the interests of the body are alone to be considered, and not those of the individual; and that a nation might be extremely happy, extremely powerful, and extremely rich, although every individual member of it might at the same time be miserable, dependent, and in debt.” Intoxicated by this new knowledge, he founds a university on Fantaisie and teaches the young of the island until the king gets sick of him and puts him in a canoe to discover new islands and establish relations with them. Popanilla paddles and paddles until he comes upon a land called Vraibleusia, which is a satirical stand-in for England. Popanilla is informed Vraibleusia is the richest country in the world, but that it is deeply in debt.
+
+“‘Debt! I thought you were the richest nation in the world?’ [says Popanilla.]
+ ‘Tis true; nevertheless, if there were a golden pyramid with a base as big as the whole earth and an apex touching the heavens, it would not supply us with sufficient metal to satisfy our creditors.’ [says his Vraibleusian companion.]
+ ‘But, my dear sir,’ exclaimed the perplexed Popanilla, ‘if this really be true, how then can you be said to be the richest nation in the world?’
+ ‘It is very simple. The annual interest upon our debt exceeds the whole wealth of the rest of the world; therefore we must be the richest nation in the world.’”
+
+Thus Disraeli mocks the liberal nation of England and its Utilitarian economic philosophers. The Vraibleusians are delighted to discover in Popanilla a resident of an unknown, undeveloped land they can trade with and invest in – much like Poyais before 1825. They quickly dispatch a fleet of ships to bring their goods to Fantaisie to trade. But, like the Poyais bubble, the Fantaisie bubble bursts when the ships are unable to find any such nation. This causes a run on the banks, as did the Panic of 1825:
+
+> “The whole island was in a state of the greatest commotion, and that martial law universally prevailed. This disturbance was occasioned by the return of the expedition destined to the Isle of Fantaisie. It appeared, from his account, that after sailing about from New Guinea to New Holland, the expedition had been utterly unable not only to reach their new customers, but even to obtain the slightest intelligence of their locality. No such place as Fantaisie was known at Ceylon. Sumatra gave information equally unsatisfactory.”
+
+In the end, Popanilla is arrested like Gregor MacGregor. Popanilla is charged with “high treason,” presumably because he is suspected of having invented his home island of Fantaisie and misled hundreds of Vraibleusians to try to invest there.
+
+*Popanilla* shows that Disraeli’s politics changed in some respects over time. For example, his complex relationship with 19th Century Britain’s Corn Laws is launched in this story. Here he mocks the laws, which were tariffs on imported grain attempting to protect local farmers and therefore local landlords, meaning the country aristocrats who largely composed the Tory party. In *Popanilla*, there is only one such farmer, named The Aboriginal Inhabitant, and he insists that “it was the common law of the land that the islanders should purchase their corn only of him. They grumbled, but he growled; he swore that it was the constitution of the country … Thus, between force, and fear, and flattery, the Vraibleusians paid for their corn nearly its weight in gold; but what did that signify to a nation with so many pink shells!”
+
+The Whigs, and eventually moderate Tory Prime Minister Robert Peel, argued that the Corn Laws raised the cost of bread and other food, making it harder for the working class to survive. When Peel eventually repealed the Corn Laws, Disraeli seized on the resulting outrage from ultra-Tories by campaigning against Peel in the Commons. Peel resigned, and between that and other issues in Ireland, the Tories were consequently split and out of power for 30 years. When Disraeli began to come to powerful positions, however, he did not work to reinstate the Corn Laws, choosing instead to “educate his party” on the need for an alternative to protectionism, as Peel failed to do, writes Nicholas Shrimpton in his excellent introduction to Disraeli’s novel *Sybil*.
+
+Somewhat defensively, Monypenny (who sometimes seems to have felt it was his job to defend Disraeli the conservative) wrote:
+
+> “Needless … to say, the outlines of his own philosophy are not yet firmly drawn nor his views on party politics consistently elaborated. No one therefore need be surprised to find the future leader of the Protectionists ridiculing the Corn Laws, or the future founder of Imperialism ridiculing the Colonial system.”
+
+However indicative of Disraeli’s changes of mind, the novella also predicts positions he would take in later novels and writings. The prime example is perhaps that the ruler of Vraibleusia is “a colossal and metallic Statue of extraordinary appearance. It represented an armed monarch.”
+
+That the king of Vraibleusia is a statue constitutes a criticism of the lack of agency of the British monarchy. In later works like *Coningsby* Disraeli lamented that the political system of his time diminished the power of the British monarchs to the point that he felt they were expected to behave like Venetian doges, chief magistrates in Vienna whom Disraeli believed deferred to aristocratic oligarchs rather than ruling on their own:
+
+> “'I repeat it,' said Coningsby. 'The great object of the Whig leaders in England from the first movement under Hampden to the last most successful one in 1688, was to establish in England a high aristocratic republic on the model of the Venetian, then the study and admiration of all speculative politicians. Read Harrington; turn over Algernon Sydney; then you will see how the minds of the English leaders in the seventeenth century were saturated with the Venetian type. And they at length succeeded. William III found them out. He told the Whig leaders, "I will not be a Doge." He balanced parties; he baffled them as the Puritans baffled them fifty years before. The reign of Anne was a struggle between the Venetian and the English systems. Two great Whig nobles, Argyle and Somerset, worthy of seats in the Council of Ten, forced their Sovereign on her deathbed to change the ministry. They accomplished their object. They brought in a new family on their own terms. George I was a Doge; George II was a Doge; they were what William III, a great man, would not be. George III tried not to be a Doge, but it was impossible materially to resist the deeply-laid combination. He might get rid of the Whig magnificoes, but he could not rid himself of the Venetian constitution. And a Venetian constitution did govern England from the accession of the House of Hanover until 1832.”
+
+The statue in *Popanilla* is tended by 12 “managers,” who represent the British cabinet: “They alone were permitted to hear its voice; for the Statue never spoke in public save on rare occasions, and its sentences were then really so extremely commonplace that, had it not been for the deep wisdom of its general conduct, the Vraibleusians would have been almost tempted to believe that they really might exist without the services of the capital member.”
+
+The novella includes one digression of a sort we saw the previous year in his *Vivian Grey*, in which we find the author in a silly mood. He writes: “Shortly before Popanilla’s illness he had been elected a member of the Vraibleusian Horticultural Society, and one evening he had endeavoured to amuse himself by reading the following CHAPTER ON FRUIT.” What follows is a long allegorical chapter, as promised, about fruit. Critics have pointed out the various fruits represent ecclesiastical positions: Catholics eat pineapple, puritans crab-apple, and so forth.
+
+Not everyone likes *Popanilla*. In 1990 John Vincent described the novella, “a product of Disraeli’s years of nervous breakdown,” as “a quaint, disrespectful, semi-radical, not very funny or biting satire on British society.” A reviewer at the time the novella came out wrote, "at present we must dismiss it as a *jeu d'esprit* of considerable merit, though unequal, and not so racy as a Swift of 1828 might have made it." But Gary Dyer in a monograph on British satire describes it as an important work because it appeared as verse and prose satires were disappearing in the 1820s, which he says happened in part because the Panic of 1825 caused publishers to pare back less popular works and therefore the publication of satires like this one. That is apparently one reason Disraeli began writing in the then-more popular genre of "silver fork novels," or stories of aristocratic life, including the next novel he wrote after this one, *The Young Duke,* which he wrote for financial reasons. When Isaac D'Israeli, his father, heard he'd written a book by that title he is reported to have asked: “What does Ben know of dukes?”
+
+If one is prepared with some familiarity with the politics of the 1820s, however, *Popanilla* is quite entertaining and illuminating as to the mindset of the young Disraeli after the crash of 1825.
+
+**---
+
+Select bibliography**
+Dawson, Frank G. *The First Latin American Debt Crisis: The City of London and the 1822-25 Loan Bubble.*Yale University Press, 1990.
+
+Dyer, Gary. *British Satire and the Politics of Style, 1789-1832.* Cambridge University Press, 1997.
+
+Disraeli, Benjamin. *Coningsby; or the New Generation,* from the Bradenham Edition of the Novels of Disraeli, Peter Davies, 1926.
+
+Disraeli, Benjamin. *Popanilla and Other Stories*, from The Bradenham Edition of the Novels of Disraeli, Peter Davies, 1926.
+
+Jackson, Trevor. *Impunity and Capitalism: The Afterlives of European Financial Crises, 1690-1830.* University of Cambridge Press, 2022.
+
+Monypenny, William F. and Buckle, George. *The Life of Benjamin Disraeli.* MacMillan, 1929.
+
+Shrimpton, Nicholas, ed. The Oxford World Classics edition of Benjamin Disraeli’s *Sybil.*2009.
+
+Unknown reviewer. *Literary Gazette*, No. 594, June 7 1828.
+
+Vincent, John. *Disraeli.* Oxford University Press, 1990.
