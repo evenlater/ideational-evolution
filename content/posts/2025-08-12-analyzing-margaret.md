@@ -3,6 +3,7 @@ title: "Analyzing \"Margaret,\" an almost-lost short story fragment by Woodrow W
 subtitle: "No one has written almost anything about this short story by a future president. It reveals his southern heart and a little-discussed family tragedy."
 date: 2025-08-12
 draft: false
+imagePosition: "Top"
 original_url: "https://ideationalevolution.blogspot.com/2025/08/analyzing-margaret-almost-lost-short.html"
 tags:
   - Wilson

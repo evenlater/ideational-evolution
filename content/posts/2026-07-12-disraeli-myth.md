@@ -1,6 +1,6 @@
 ---
 title: "Review: The Disraeli myth is consequential but endangered, a new book shows"
-subtitle: "Emily Jones' new book traces how a myth Disraeli built himself still shapes British conservatism today."
+subtitle: "The prime minister managed to write the single most influential novel in British political history. So why do so few remember him?"
 date: 2026-07-12
 draft: false
 image: "/img/disraeli-myth.jpg"
