@@ -1,5 +1,6 @@
 ---
 title: "Review: *Angel Down*, *To the Lighthouse* and the communicative difficulties of World War I"
+subtitle: "These two Great War stories are very different, but they share a harrowing interiority."
 date: 2026-06-07
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2026/06/angel-down-to-lighthouse-and.html"

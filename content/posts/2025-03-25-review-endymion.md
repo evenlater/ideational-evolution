@@ -1,5 +1,6 @@
 ---
 title: "Review: *Endymion*, a novel by Benjamin Disraeli"
+subtitle: "Why was the hero of the conservative prime minister’s last complete novel on the opposite side of the political spectrum?"
 date: 2025-03-25
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/review-endymion-novel-by-benjamin.html"

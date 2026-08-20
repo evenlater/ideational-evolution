@@ -1,5 +1,6 @@
 ---
 title: "Review: Edelman's *Disraeli in Love* and *Disraeli Rising*, mismarketed as 1970s romance novels, died an unfortunate death"
+subtitle: "Amid the launch of the “bodice-ripper” and the rise of the Harlequin era, a campy but intelligent pair of historical novels got lost."
 date: 2026-02-19
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2026/02/review-edelmans-disraeli-in-love-and.html"

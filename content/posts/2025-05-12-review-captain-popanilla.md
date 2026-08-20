@@ -1,5 +1,6 @@
 ---
 title: "Review: *The Voyage of Captain Popanilla*, a novella by Benjamin Disraeli"
+subtitle: "This entertaining political tract in fictional form was inspired by the Panic of 1825 and the fake nation of Poyais."
 date: 2025-05-12
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/05/review-voyage-of-captain-popanilla.html"

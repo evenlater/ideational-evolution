@@ -1,5 +1,6 @@
 ---
 title: "The impact of Britain's \"New Liberalism\" on Woodrow Wilson"
+subtitle: "Wilson seems to have thought surprisingly little about British New Liberalism before the war."
 date: 2025-03-21
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/03/the-impact-of-britains-new-liberalism.html"

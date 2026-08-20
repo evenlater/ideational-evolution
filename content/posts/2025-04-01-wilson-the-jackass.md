@@ -1,5 +1,6 @@
 ---
 title: "Woodrow Wilson & The Jackass"
+subtitle: "The tale of Woodrow Wilson’s most hated Princeton professor is one of the most amusing and least told stories in Wilson lore"
 date: 2025-04-01
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/04/woodrow-wilson-jackass.html"

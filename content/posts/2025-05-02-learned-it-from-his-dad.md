@@ -1,5 +1,6 @@
 ---
 title: "He learned it from his Dad: Woodrow Wilson's opposition to inalienable rights"
+subtitle: "A symptom of his early conservatism, not his eventual progressivism, Wilson’s opposition to natural rights came from his southern background as much as his xenophilic nature."
 date: 2025-05-02
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/05/he-learned-it-from-his-dad-woodrow.html"

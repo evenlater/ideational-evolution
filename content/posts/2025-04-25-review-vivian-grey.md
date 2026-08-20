@@ -1,5 +1,6 @@
 ---
 title: "Review: *Vivian Grey*, a novel by Benjamin Disraeli"
+subtitle: "Two hundred years later, Disraeli’s first novel remains audacious, ridiculous, revealing."
 date: 2025-04-25
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2025/04/review-vivian-grey-novel-by-benjamin.html"

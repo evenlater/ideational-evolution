@@ -1,5 +1,6 @@
 ---
 title: "Edward Bulwer-Lytton's ideational evolution: He pulls Disraeli left, then Disraeli pulls him right"
+subtitle: "He pulls Disraeli left, then Disraeli pulls him right."
 date: 2026-05-06
 draft: false
 original_url: "https://ideationalevolution.blogspot.com/2026/05/edward-bulwer-lyttons-ideational.html"
