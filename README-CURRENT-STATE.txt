@@ -1,45 +1,38 @@
 THIS ZIP SUPERSEDES EVERY OTHER ZIP I'VE SENT IN THIS CONVERSATION.
 
-NEW FEATURE: imagePosition frontmatter field. Set it on any post:
+NEW FEATURE: imageFit: contain frontmatter field. Fixes exactly the
+Margaret problem -- a portrait image that shouldn't be cropped to the
+standard 1200x630 banner shape. Set it on that one post's frontmatter
+alongside imagePosition:
 
-  imagePosition: top
+  image: "/img/big-marge.png"    <- whatever the file is actually
+                                    named now; point this at it
+                                    directly instead of relying on
+                                    filename auto-detection
+  imageFit: contain
 
-Valid values: any CSS object-position keyword -- top, bottom, left,
-right, center (the default when omitted), or combinations like
-"top left". Controls where a cover-cropped image is anchored when it
-doesn't fit its frame's aspect ratio, so a photo needing its top
-visible (a face near the top of a tall image, say) isn't center-cropped
-awkwardly.
+WHAT THIS FIXES ABOUT YOUR WORKAROUND: renaming the file broke
+heroimage.html's auto-detection (it guesses filenames from the post's
+slug, so "big-marge.png" no longer matched "analyzing-margaret" and
+every thumbnail silently found nothing). The `image:` field bypasses
+that guessing entirely and points straight at the real file -- no
+rename needed at all, actually; you could revert the filename back to
+analyzing-margaret.png and it would still auto-detect fine without
+even needing the image: field. Either way works now.
 
-WIRED UP IN ALL FIVE PLACES an image can appear, not just one:
-  1. Homepage six-box grid cards (and Archive, and tag pages -- they
-     all share the same post-card.html partial)
-  2. Homepage hero (the featured/latest post)
-  3. The article's own hero banner at the top of its page
-  4. Prev/next navigation preview thumbnails (both directions --
-     these show the ADJACENT post's image and imagePosition, not the
-     current page's, so I made sure to capture that context correctly
-     rather than accidentally reading the wrong post's setting)
+imageFit: contain affects ONLY the article's own large hero banner --
+thumbnails everywhere else (homepage grid, homepage hero, prev/next
+nav previews) stay properly cropped as normal small crops, which is
+correct regardless of the source image's orientation. Verified this
+distinction directly: temporarily set imageFit: contain on the real
+Margaret post, confirmed the banner shows the full portrait
+(letterboxed, capped at 75vh so it doesn't dominate the page) while an
+adjacent post's nav-preview thumbnail of that same image still renders
+as a normal cropped thumbnail -- then reverted the test post to
+original.
 
-CAUGHT AND FIXED WHILE BUILDING: two of these (the homepage hero and
-the nav-preview thumbnails) live in top-level page templates, not
-partials -- in Hugo, the $ variable means something different there
-(the current page being rendered) than it does inside a partial
-(whatever context was passed in). Naively writing $.Params.imagePosition
-in those spots would have silently read the WRONG page's setting.
-Caught this before shipping by explicitly capturing each post's
-context in its own variable ($post, $prev, $next) rather than relying
-on $.
-
-VERIFIED END TO END, not just in the template code: temporarily added
-imagePosition: top to a real live post (Disraeli myth) and rebuilt,
-confirming the actual generated HTML across all five spots correctly
-showed object-position:top / background-position:top -- then reverted
-that post back to its original content, confirmed zero trace of the
-test left behind.
-
-Defaults to center everywhere when the field is omitted, so nothing
-changes for any existing post until Darryl actually sets it on the
-one that needs it.
+CLEANUP FOR YOU TO DO: remove the manual <img src> tag you added
+directly in the post body -- it's redundant now that the hero banner
+handles this properly through the template.
 
 Build-tested clean, Hugo v0.161.1 extended, --buildDrafts, 53 pages.

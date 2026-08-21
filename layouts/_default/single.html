@@ -15,7 +15,7 @@
     </header>
 
     {{ with $heroImg }}
-    <figure class="post-hero-image">
+    <figure class="post-hero-image{{ if eq $.Params.imageFit "contain" }} contain{{ end }}">
       <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="eager" style="object-position: {{ $.Params.imagePosition | default "center" }};">
     </figure>
     {{ end }}
