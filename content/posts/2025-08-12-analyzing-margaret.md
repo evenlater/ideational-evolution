@@ -3,6 +3,7 @@ title: "Analyzing \"Margaret,\" an almost-lost short story fragment by Woodrow W
 subtitle: "No one has written almost anything about this short story by a future president. It reveals his southern heart and a little-discussed family tragedy."
 date: 2025-08-12
 draft: false
+imageFit: "Contain"
 imagePosition: "Top"
 original_url: "https://ideationalevolution.blogspot.com/2025/08/analyzing-margaret-almost-lost-short.html"
 tags:
@@ -10,7 +11,6 @@ tags:
   - Disraeli
 sources:
 ---
-<img src="/img/big-marge.png" alt="Woodrow Wilson, a piece of paper, and a house." width="425" style="display: block; margin: 0 auto;"><br><br>
 A work of fiction by a future United States president is a rare occurrence, so it’s strange that no one appears to have written anything about an unfinished, six-page short story entitled “Margaret” that Woodrow Wilson wrote in longhand in a notebook, probably sometime in the 1880s. It is now preserved at the Library of Congress. The story was even left out of editor Arthur S. Link’s unprecedentedly exhaustive 69-volume *Papers of Woodrow Wilson*. The most extensive mention I’ve found is in a brief footnote in Henry Bragdon’s biography of Wilson, which merely notes the story’s existence and quotes a few lines from it. Even Edwin A. Weinstein, who printed an extensive analysis of Wilson’s only completed short story, “The World and John Hart,” in his psychological study of Wilson, ignored “Margaret” altogether. Biographer John Mulder, surveying his early writing, does mention “Margaret” and reminds us that Wilson also once outlined a novel that he never wrote, but then wraps up by noting simply that “Wilson’s failure to get these works published was no loss to American letters.” Of course, it’s possible I missed something, as there are allegedly more than 2,000 books on Wilson in English alone, according to the latest addition to the pile of biographies (Christopher Cox’s 2024 *Woodrow Wilson: The Light Withdrawn*). But the fragment’s complete omission from most of the commonly held biographies in most good libraries is unfortunate, because what it says about this much-examined man and his family is fascinating. I believe “Margaret” to have been inspired by Wilson’s future wife Ellen Axson and her father, who probably committed suicide and whom Wilson appears to see as a symbol of the devastation of the Civil War in the South and the so-called “Lost Cause” of the Confederacy.
 
 Almost the whole of “Margaret” is reprinted in the course of this article, below.
