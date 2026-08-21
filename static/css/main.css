@@ -306,6 +306,7 @@ nav a.active { color: var(--paper); }
 .read-more::after { content: '→'; }
 
 @media (max-width: 900px) {
+  .container { padding: 0 2rem; }
   .hero-img img { min-height: 180px; }
 }
 
