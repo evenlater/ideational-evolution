@@ -826,7 +826,7 @@ footer span { color: var(--gold-dim); }
 
 @media (max-width: 600px) {
   .post-grid { grid-template-columns: 1fr; }
-  .single-post { padding: 2rem 2rem; }
+  .single-post { padding: 2rem 0; }
   .post-header { margin-bottom: 1.75rem; }
   .hero { padding: 2rem 0; }
   .post-body { font-size: 1.05rem; line-height: 1.95; }
