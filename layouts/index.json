@@ -3,7 +3,7 @@
 {{- range $i, $p := $posts -}}
 {{- if $i }},{{ end -}}
 {
-  "title": {{ $p.Title | jsonify }},
+  "title": {{ $p.Title | markdownify | jsonify }},
   "url": {{ $p.Permalink | jsonify }},
   "date": {{ $p.Date.Format "January 2, 2006" | jsonify }},
   "tags": {{ $p.Params.tags | jsonify }},
