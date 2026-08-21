@@ -1,38 +1,43 @@
 THIS ZIP SUPERSEDES EVERY OTHER ZIP I'VE SENT IN THIS CONVERSATION.
 
-NEW FEATURE: imageFit: contain frontmatter field. Fixes exactly the
-Margaret problem -- a portrait image that shouldn't be cropped to the
-standard 1200x630 banner shape. Set it on that one post's frontmatter
-alongside imagePosition:
+THREE THINGS IN THIS ROUND:
 
-  image: "/img/big-marge.png"    <- whatever the file is actually
-                                    named now; point this at it
-                                    directly instead of relying on
-                                    filename auto-detection
-  imageFit: contain
+1. MARGARET IMAGE -- RE-SENDING single.html + main.css. Your test
+   confirmed the frontmatter (imageFit: "contain") was correct and my
+   template logic was correct when I rebuilt locally with your exact
+   file -- so the most likely explanation is the imageFit zip from two
+   rounds back never fully landed on the live site. This delivery has
+   both files together again so there's no chance of a partial apply.
 
-WHAT THIS FIXES ABOUT YOUR WORKAROUND: renaming the file broke
-heroimage.html's auto-detection (it guesses filenames from the post's
-slug, so "big-marge.png" no longer matched "analyzing-margaret" and
-every thumbnail silently found nothing). The `image:` field bypasses
-that guessing entirely and points straight at the real file -- no
-rename needed at all, actually; you could revert the filename back to
-analyzing-margaret.png and it would still auto-detect fine without
-even needing the image: field. Either way works now.
+2. HOMEPAGE PAGINATION -- full rebuild, not a patch. Home now uses
+   Hugo's real pagination on the exact same post list as /posts (same
+   source, same 6-per-page), so page counts are structurally
+   guaranteed to match -- not two systems that could drift, just one
+   shared mechanism. 7 pages on both, confirmed. Real page-number
+   links now render (reusing the same pager you already see on
+   Archive), not just a "1/4" counter. The featured post no longer
+   appears twice -- it's excluded from the grid wherever it would
+   land, confirmed empty on every single paginated page, not just
+   page 1.
 
-imageFit: contain affects ONLY the article's own large hero banner --
-thumbnails everywhere else (homepage grid, homepage hero, prev/next
-nav previews) stay properly cropped as normal small crops, which is
-correct regardless of the source image's orientation. Verified this
-distinction directly: temporarily set imageFit: contain on the real
-Margaret post, confirmed the banner shows the full portrait
-(letterboxed, capped at 75vh so it doesn't dominate the page) while an
-adjacent post's nav-preview thumbnail of that same image still renders
-as a normal cropped thumbnail -- then reverted the test post to
-original.
+   Caught a real bug while building this: Hugo's pagination only
+   splits what's inside the paginated loop -- everything else in a
+   template still re-renders identically on every /page/N/ URL. My
+   first version had the hero section written above the .Paginate
+   call, which meant the full hero (image, excerpt, everything) would
+   have repeated on pages 2 through 7 too. Caught it by actually
+   grepping every generated page for hero-title, not by assuming the
+   restructure was clean. Fixed by moving .Paginate to the top and
+   gating the whole hero block to page 1 only.
 
-CLEANUP FOR YOU TO DO: remove the manual <img src> tag you added
-directly in the post body -- it's redundant now that the hero banner
-handles this properly through the template.
+   Removed the old JS shuffle button/counter entirely (both the script
+   and its CSS) since it's fully replaced now.
 
-Build-tested clean, Hugo v0.161.1 extended, --buildDrafts, 53 pages.
+3. ABOUT LINK -- temporary fix as discussed: no /about page exists,
+   so the nav link now jumps to the About blurb already living in the
+   site-wide footer (id="about") instead of pointing at a page that
+   was never built. Works from any page on the site, not just home,
+   since that footer section is on every page already.
+
+Build-tested clean, Hugo v0.161.1 extended, --buildDrafts, 53 pages,
+19 total paginator pages across home/archive/tags.

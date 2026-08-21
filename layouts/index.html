@@ -1,10 +1,17 @@
 {{ define "main" }}
 <div class="container">
 
-  {{/* ── FEATURED / LATEST ESSAY ── */}}
   {{ $posts := where .Site.RegularPages "Section" "posts" }}
   {{ $posts = $posts.ByDate.Reverse }}
-  {{ with index $posts 0 }}
+  {{ $featured := index $posts 0 }}
+  {{ $paginator := .Paginate $posts 6 }}
+
+  {{/* ── FEATURED / LATEST ESSAY ── page 1 only. Pagination doesn't
+       split the whole template -- everything outside the paginated
+       loop still renders on every /page/N/ sub-page, so without this
+       check the full hero would repeat identically on pages 2-7. */}}
+  {{ if eq $paginator.PageNumber 1 }}
+  {{ with $featured }}
   {{ $post := . }}
   {{ $heroImg := partial "heroimage.html" . }}
   <article class="hero{{ if $heroImg }} has-image{{ end }}">
@@ -21,68 +28,29 @@
     </div>
   </article>
   {{ end }}
+  {{ end }}
 
-  {{/* ── SIX-BOX ESSAY GRID, CYCLED VIA BUTTON ──
-       Pulls the most recent $homeCount posts and splits them into
-       batches of 6 (Hugo has no built-in chunk function, so this is
-       done by hand with seq/first/after). Only the first batch
-       renders visible; the rest sit hidden in the DOM and the button
-       below cycles through them. Full pagination through the entire
-       archive lives on /posts. */}}
-  {{ $homeCount := 24 }}
-  {{ $homeSlice := first $homeCount $posts }}
-  {{ $batchSize := 6 }}
-  {{ $batchCount := int (math.Ceil (div (float (len $homeSlice)) $batchSize)) }}
+  {{/* ── ESSAY GRID, REAL PAGINATION ──
+       Same source list, same page size (6) as /posts, so page counts
+       always match exactly between home and Archive. The featured
+       post is skipped wherever it lands (always page 1) rather than
+       shown twice. */}}
   <div class="posts-section">
     <div class="posts-header"><h3>All Essays</h3></div>
 
-    <div id="home-grid">
-      {{ range $i := seq $batchCount }}
-        {{ $start := mul (sub $i 1) $batchSize }}
-        {{ $batch := $homeSlice | after $start | first $batchSize }}
-      <div class="post-grid grid-batch"{{ if ne $i 1 }} hidden{{ end }}>
-        {{ range $batch }}
+    <div class="post-grid">
+      {{ range $paginator.Pages }}
+        {{ if ne .Permalink $featured.Permalink }}
           {{ partial "post-card.html" . }}
         {{ end }}
-      </div>
       {{ end }}
     </div>
 
-    {{ if gt $batchCount 1 }}
-    <div class="shuffle-controls">
-      <button type="button" id="shuffle-btn" class="shuffle-btn">More essays →</button>
-      <span id="shuffle-counter" class="shuffle-counter">1 / {{ $batchCount }}</span>
-    </div>
-    {{ end }}
+    {{ partial "site-pagination.html" . }}
   </div>
 
 </div>
 
-{{ if gt $batchCount 1 }}
-<script>
-(function () {
-  var batches = document.querySelectorAll('#home-grid .grid-batch');
-  var btn = document.getElementById('shuffle-btn');
-  var counter = document.getElementById('shuffle-counter');
-  var total = batches.length;
-  var idx = 0;
-
-  function show(i) {
-    batches.forEach(function (b, n) { b.hidden = n !== i; });
-    if (counter) counter.textContent = (i + 1) + ' / ' + total;
-  }
-
-  if (btn) {
-    btn.addEventListener('click', function () {
-      idx = (idx + 1) % total;
-      show(idx);
-    });
-  }
-})();
-</script>
-{{ end }}
-
-{{/* ── BIBLIOGRAPHY SECTION (if books exist) ── */}}
 {{ with .Site.Data.books }}
 {{ end }}
 
