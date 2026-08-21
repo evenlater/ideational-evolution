@@ -294,8 +294,10 @@ nav a.active { color: var(--paper); }
 }
 
 .hero-body {
-  font-size: 0.93rem;
-  line-height: 1.82;
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 0.98rem;
+  line-height: 1.7;
   color: #a09880;
   margin-bottom: 1.5rem;
 }
@@ -629,7 +631,7 @@ nav a.active { color: var(--paper); }
 .post-body hr {
   border: none;
   border-top: 1px solid var(--rule);
-  margin: 1.5rem 0;
+  margin: 3rem 0;
 }
 
 /* ── BIBLIOGRAPHY ── */
@@ -684,6 +686,20 @@ nav a.active { color: var(--paper); }
   text-decoration: none;
   transition: color 0.2s;
   max-width: 44%;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.post-nav-link.next { justify-content: flex-end; }
+
+.post-nav-arrow { flex-shrink: 0; }
+
+.post-nav-text {
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .post-nav-link:hover { color: var(--paper); }
@@ -813,8 +829,8 @@ footer span { color: var(--gold-dim); }
     grid-template-areas:
       "flag"
       "title"
-      "img"
       "sub"
+      "img"
       "byline"
       "body"
       "cta";
@@ -829,7 +845,7 @@ footer span { color: var(--gold-dim); }
 
 @media (max-width: 600px) {
   .post-grid { grid-template-columns: 1fr; }
-  .single-post { padding: 1.75rem 1.5rem; }
+  .single-post { padding: 2rem 2rem; }
   .post-header { margin-bottom: 1.75rem; }
   .hero { padding: 2rem 0; }
   .post-body { font-size: 1.05rem; line-height: 1.95; }
@@ -965,3 +981,77 @@ footer span { color: var(--gold-dim); }
    regardless of specificity) -- this silently broke the homepage's
    "one batch visible at a time" shuffle once post count grew past 6. */
 .grid-batch[hidden] { display: none !important; }
+
+/* ── SEARCH ── */
+.nav-search-toggle {
+  font-size: 1rem;
+  border-left: 1px solid var(--rule);
+}
+
+.search-panel {
+  background: var(--surface);
+  border-bottom: 1px solid var(--rule);
+  padding: 1.2rem 2.5rem;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: block;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  color: var(--paper);
+  font-family: var(--body);
+  font-size: 1.05rem;
+  padding: 0.7rem 1rem;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--gold-dim);
+}
+
+.search-results {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.search-result {
+  display: block;
+  padding: 0.8rem 0.2rem;
+  border-bottom: 1px solid var(--rule);
+  text-decoration: none;
+}
+
+.search-result:last-child { border-bottom: none; }
+
+.search-result-tag {
+  display: block;
+  font-family: var(--condensed);
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  margin-bottom: 0.2rem;
+}
+
+.search-result-title {
+  display: block;
+  font-family: var(--body);
+  font-size: 0.95rem;
+  color: var(--paper-mid);
+}
+
+.search-result:hover .search-result-title { color: var(--paper); }
+
+.search-empty {
+  font-family: var(--condensed);
+  font-size: 0.75rem;
+  color: var(--muted);
+  padding: 0.5rem 0.2rem;
+}
+
+@media (max-width: 900px) {
+  .search-panel { padding: 1rem; }
+}

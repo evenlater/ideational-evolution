@@ -1,6 +1,6 @@
 ---
 title: "Woodrow Wilson, Ezra Pound and an homage to James Joyce's *Ulysses*"
-subtitle: "A tongue-in-cheek theory that Wilson's censorious, verbose prose helped provoke literature's turn toward the interior style of Ulysses."
+subtitle: "Ezra Pound ruminated on the relationship between literary writing and political writing. Having a Joyce sooner could have spared us a Wilson, he said."
 date: 2026-06-17
 draft: false  
 image: "/img/wilson-pound-joyce.jpg"

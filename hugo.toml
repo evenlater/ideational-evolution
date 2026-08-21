@@ -19,6 +19,6 @@ locale = 'en-us'
       hardWraps = true
 
 [outputs]
-  home = ['HTML', 'RSS']
+  home = ['HTML', 'RSS', 'JSON']
   page = ['HTML']
   section = ['HTML', 'RSS']
