@@ -16,7 +16,7 @@
 
     {{ with $heroImg }}
     <figure class="post-hero-image">
-      <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="eager">
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="eager" style="object-position: {{ $.Params.imagePosition | default "center" }};">
     </figure>
     {{ end }}
 
@@ -53,18 +53,20 @@
 
     <nav class="post-nav">
       {{ with .PrevInSection }}
+      {{ $prev := . }}
       <a href="{{ .Permalink }}" class="post-nav-link prev">
         {{ with partial "heroimage.html" . }}
-        <span class="nav-preview"><img src="{{ . | relURL }}" alt="" loading="lazy"></span>
+        <span class="nav-preview"><img src="{{ . | relURL }}" alt="" loading="lazy" style="object-position: {{ $prev.Params.imagePosition | default "center" }};"></span>
         {{ end }}
         <span class="post-nav-arrow">←</span>
         <span class="post-nav-text">{{ .Title | markdownify }}</span>
       </a>
       {{ end }}
       {{ with .NextInSection }}
+      {{ $next := . }}
       <a href="{{ .Permalink }}" class="post-nav-link next">
         {{ with partial "heroimage.html" . }}
-        <span class="nav-preview"><img src="{{ . | relURL }}" alt="" loading="lazy"></span>
+        <span class="nav-preview"><img src="{{ . | relURL }}" alt="" loading="lazy" style="object-position: {{ $next.Params.imagePosition | default "center" }};"></span>
         {{ end }}
         <span class="post-nav-text">{{ .Title | markdownify }}</span>
         <span class="post-nav-arrow">→</span>

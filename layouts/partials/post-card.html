@@ -5,7 +5,7 @@
 {{- $image := partial "heroimage.html" . -}}
 <article class="post-card{{ if $image }} has-image{{ end }}">
   {{ with $image }}
-  <div class="pc-img" style="background-image: url('{{ . | relURL }}');"></div>
+  <div class="pc-img" style="background-image: url('{{ . | relURL }}'); background-position: {{ $.Params.imagePosition | default "center" }};"></div>
   {{ end }}
   <div class="pc-text">
     <p class="card-tag">{{ with .Params.tags }}{{ index . 0 }}{{ end }} · {{ .Date.Format "January 2006" }}</p>
