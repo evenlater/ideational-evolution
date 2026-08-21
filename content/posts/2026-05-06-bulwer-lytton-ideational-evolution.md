@@ -1,5 +1,5 @@
 ---
-title: "Edward Bulwer-Lytton's ideational evolution: He pulls Disraeli left, then Disraeli pulls him right"
+title: "Edward Bulwer-Lytton's ideational evolution"
 subtitle: "He pulls Disraeli left, then Disraeli pulls him right."
 date: 2026-05-06
 draft: false
