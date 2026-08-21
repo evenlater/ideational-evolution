@@ -1,6 +1,6 @@
 ---
 title: "Review: Gore Vidal, inheritor of Disraeli's tradition, painted a kind of political self-portrait in *Julian*"
-subtitle: '"You cannot be both a politician and a writer," Vidal said. But that didn't stop them from trying.'
+subtitle: '"You cannot be both a politician and a writer," Vidal said. But that didn’t stop them from trying.'
 date: 2026-03-29
 draft: false
 tags:
