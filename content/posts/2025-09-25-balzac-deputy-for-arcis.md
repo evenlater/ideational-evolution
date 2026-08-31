@@ -6,8 +6,8 @@ tags:
   - Disraeli
 subtitle: Disraeli got the credit for inventing the parliamentary novel, but Balzac started one first. It’s too bad he died before he could finish it — what remains shows Balzac longed for a French politics not unlike Disraeli’s.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3338.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/09/review-balzacs-deputy-for-arcis.html
 ---
