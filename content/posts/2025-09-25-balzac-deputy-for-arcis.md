@@ -4,7 +4,7 @@ date: 2025-09-25
 draft: false
 tags:
   - Disraeli
-subtitle: Disraeli got the credit for inventing the parliamentary novel, but Balzac started one first. It’s too bad he never finished it.
+subtitle: Disraeli got the credit for inventing the parliamentary novel, but Balzac started one first. It’s too bad he died before he could finish it — what remains shows Balzac longed for a French politics not unlike Disraeli’s.
 lede: ''
 image: ''
 imageFit: ''
