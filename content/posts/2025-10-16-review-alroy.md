@@ -7,8 +7,8 @@ tags:
   - Disraeli
 subtitle: 'Disraeli dreamed in 1833 of reviving Israel, before “Zionism” was a word: “A single day, a single man, and we might be a nation.” Did he hope to be that single man?'
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3322.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/10/review-disraelis-alroy-prefigures.html
 ---
