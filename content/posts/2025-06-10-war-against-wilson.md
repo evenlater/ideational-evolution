@@ -1,12 +1,16 @@
 ---
-title: "The war against Woodrow Wilson reaches the top"
+title: The war against Woodrow Wilson reaches the top
 date: 2025-06-10
 draft: false
-original_url: "https://ideationalevolution.blogspot.com/2025/06/the-new-war-against-woodrow-wilson.html"
 tags:
   - Wilson
   - Gladstone
-sources:
+subtitle: 'Guess when the White House says America stopped “being great”: Just when Woodrow Wilson took over.'
+lede: ''
+image: ''
+imageFit: ''
+sources: []
+original_url: https://ideationalevolution.blogspot.com/2025/06/the-new-war-against-woodrow-wilson.html
 ---
 
 Through three Trump campaigns for president, the question loomed: If we have to make America great again, when was it great? Then, after his second victory in 2024, President Trump answered the question. And the answer was, before Woodrow Wilson became president for the first time in 1913.
@@ -15,13 +19,13 @@ Through three Trump campaigns for president, the question loomed: If we have to 
 
 Joy Reid, formerly of MSNBC, recorded a video declaring Republicans were waging a war on “the 20th Century” because some of the “super rich” have never believed there should be an income tax, which Wilson and his Congress instituted, or Social Security, or Medicare or Medicaid and that the poor should just “figure it out.” She might also have added other institutions for which Wilson was responsible, including the Federal Reserve and the Federal Trade Commission.
 
-This resentment of Wilson’s progressivism dates back to 2008, when conservative author Jonah Goldberg published *Liberal Fascism*, which made a case against Wilson and included many of the thoughts from a soon-to-be popular 2005 book entitled *Woodrow Wilson and the Roots of Modern Liberalism* by Professor Ronald J Pestritto of Hillsdale College. Wilson hate exploded in the early days of the Tea Party during Barack Obama’s first term, when then-Fox News host Glenn Beck made it regular feature on his show to declare, “I hate Woodrow Wilson.” That was largely because he had read Pestritto’s book. He made Pestritto a regular guest on his program. Pestritto’s sales soared.
+This resentment of Wilson’s progressivism dates back to 2008, when conservative author Jonah Goldberg published _Liberal Fascism_, which made a case against Wilson and included many of the thoughts from a soon-to-be popular 2005 book entitled _Woodrow Wilson and the Roots of Modern Liberalism_ by Professor Ronald J Pestritto of Hillsdale College. Wilson hate exploded in the early days of the Tea Party during Barack Obama’s first term, when then-Fox News host Glenn Beck made it regular feature on his show to declare, “I hate Woodrow Wilson.” That was largely because he had read Pestritto’s book. He made Pestritto a regular guest on his program. Pestritto’s sales soared.
 
 I have been writing on this blog about some of the aspects of Woodrow Wilson’s intellectual career that appalled fans of Beck, Pestritto and Goldberg in the early 2000s, such as his derision for the preface of the Declaration of Independence. Conservatives also recoiled at his endorsement of a “living constitution,” a phrase he coined, which endorses the view that the constitution needs to evolve.
 
-“All of the stuff about Wilson has been completely erased from the popular histories,” Goldberg said in an interview in a book called *The Progressive Century* that among other things tracks the influence of Wilson-detractors. “I'm a fairly well-read guy. No academic, but historically literate by American standards. I had no idea about some of that stuff. So it was compelling on the merits. But it was also seen as evidence in a larger indictment that liberals have been "hiding" a lot of stuff from us. I don't mean that in the paranoid sense. But when Liberal Fascism came out there was a boom in history books purporting to tell the history liberals don't want you to know, yada yada yada. And this was stuff a lot of smart, book-reading people simply didn't know.”
+“All of the stuff about Wilson has been completely erased from the popular histories,” Goldberg said in an interview in a book called _The Progressive Century_ that among other things tracks the influence of Wilson-detractors. “I'm a fairly well-read guy. No academic, but historically literate by American standards. I had no idea about some of that stuff. So it was compelling on the merits. But it was also seen as evidence in a larger indictment that liberals have been "hiding" a lot of stuff from us. I don't mean that in the paranoid sense. But when Liberal Fascism came out there was a boom in history books purporting to tell the history liberals don't want you to know, yada yada yada. And this was stuff a lot of smart, book-reading people simply didn't know.”
 
-In 2020 a book came out purporting to track the lack of coverage of what Goldberg called “all of the stuff about Wilson” in the historical literature over a century. *Progressivism: The Strange History of a Radical Idea* by Bradley C.S. Watson included brief synopses of most of the popular and some academic histories of the century, noting again and again the omission of discussion of Wilson’s rejection of natural rights and the endorsement of the “living constitution.” The book doesn’t put this rejection in a historical context, or quote those who point out such a view was quite common in the 19th century when Wilson began to voice it, among both liberals and reactionaries, largely because the French Revolution of 1789 was fresher in mind in the 19th Century, as discussed in [a prior blog post](https://ideationalevolution.blogspot.com/2025/05/he-learned-it-from-his-dad-woodrow.html). But the book reflects the influence of critique of Wilson furthered not only by Pestritto but also the school he attended. It has been called “the Clarendon critique.”
+In 2020 a book came out purporting to track the lack of coverage of what Goldberg called “all of the stuff about Wilson” in the historical literature over a century. _Progressivism: The Strange History of a Radical Idea_ by Bradley C.S. Watson included brief synopses of most of the popular and some academic histories of the century, noting again and again the omission of discussion of Wilson’s rejection of natural rights and the endorsement of the “living constitution.” The book doesn’t put this rejection in a historical context, or quote those who point out such a view was quite common in the 19th century when Wilson began to voice it, among both liberals and reactionaries, largely because the French Revolution of 1789 was fresher in mind in the 19th Century, as discussed in [a prior blog post](https://ideationalevolution.blogspot.com/2025/05/he-learned-it-from-his-dad-woodrow.html). But the book reflects the influence of critique of Wilson furthered not only by Pestritto but also the school he attended. It has been called “the Clarendon critique.”
 
 Thus the movement against Wilson’s influence began to shape the Tea Party movement, according to Steven M. Teles in a chapter of The Progressive Century titled “How the Progressives Became the Mortal Enemy of the Tea Party.”
 
