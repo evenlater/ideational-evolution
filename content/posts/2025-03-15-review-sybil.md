@@ -1,11 +1,15 @@
 ---
-title: "Review: *Sybil*, a novel by Benjamin Disraeli"
+title: 'Review: *Sybil*, a novel by Benjamin Disraeli'
 date: 2025-03-15
 draft: false
-original_url: "https://ideationalevolution.blogspot.com/2025/03/review-sybil-novel-by-benjamin-disraeli.html"
 tags:
   - Disraeli
-sources:
+subtitle: A quick look at a hugely influential novel.
+lede: ''
+image: ''
+imageFit: ''
+sources: []
+original_url: https://ideationalevolution.blogspot.com/2025/03/review-sybil-novel-by-benjamin-disraeli.html
 ---
 
 A forerunner of Charles Dickens’s “Hard Times” and other so-called “condition of England” novels in the Victorian age, Benjamin Disraeli’s “Sybil, or The Two Nations” is a groundbreaking novel of ideas and politics. Scholars debate whether Disraeli invented the political novel. By most definitions he did not; for example his own father wrote anti-Jacobin novels about the influence of the French Revolution on England, which influenced Benjamin’s style. But he was certainly the inventor of something original in this blend of uniquely first-hand parliamentary expertise (he was a member of parliament when he wrote it and would go on of course to become Prime Minister), historical essay, proto-Wildean wit and romantic/adventure narrative.
