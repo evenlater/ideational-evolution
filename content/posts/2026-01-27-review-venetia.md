@@ -4,7 +4,7 @@ date: 2026-01-27
 draft: false
 tags:
   - Disraeli
-subtitle: Disraeli wrote a novel about the long lost love of Lord Byron. In doing so he positioned himself for a new role as a conservative, simultaneously rehabilitating and distancing himself from his hero. So why do so few critics mention the poet’s childhood sweetheart?
+subtitle: Disraeli wrote a novel about the long lost love of his hero Lord Byron. In doing so he positioned himself for a new role as a conservative, simultaneously rehabilitating and distancing himself from the poet. So why do so few critics mention Byron’s childhood sweetheart?
 lede: ''
 image: ''
 imageFit: ''
