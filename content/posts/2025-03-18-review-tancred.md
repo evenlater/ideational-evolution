@@ -1,11 +1,15 @@
 ---
-title: "Review: *Tancred*, a novel by Benjamin Disraeli"
+title: 'Review: *Tancred*, a novel by Benjamin Disraeli'
 date: 2025-03-18
 draft: false
-original_url: "https://ideationalevolution.blogspot.com/2025/03/review-tancred-novel-by-benjamin.html"
 tags:
   - Disraeli
-sources:
+subtitle: For 150 years, reception was negative about this novel. Then, starting 20 years ago, something changed.
+lede: ''
+image: ''
+imageFit: ''
+sources: []
+original_url: https://ideationalevolution.blogspot.com/2025/03/review-tancred-novel-by-benjamin.html
 ---
 
 Reception to 1847’s “Tancred, Or the New Crusade,” the third of Benjamin Disraeli’s so-called political trilogy, was largely negative until the last 20 years or so. This generation (2004-2024) has produced multiple scholarly treatments that take the book seriously and lift it above the judgment that it is a silly Orientalist travelogue that simply preaches the superiority of the Jewish race in an effort to promote the political prospects of one particular Jew, Disraeli himself.
