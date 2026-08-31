@@ -7,7 +7,7 @@ tags:
 subtitle: The delicious digressions of the young Disraeli’s narrator were axed in later editions. Best to read the excellent Routledge edition, which retains the original text even if it gets some of the author’s copious allusions wrong.
 lede: ''
 image: /img/IMG_3328.jpeg
-imageFit: ''
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/07/review-disraelis-novel-young-duke-is.html
 ---
