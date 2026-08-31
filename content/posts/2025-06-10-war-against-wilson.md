@@ -5,7 +5,7 @@ draft: false
 tags:
   - Wilson
   - Gladstone
-subtitle: 'Guess when the White House says America stopped “being great”: Just when Woodrow Wilson took over.'
+subtitle: Did America stop “being great” just when Woodrow Wilson took over?
 lede: ''
 image: ''
 imageFit: ''
