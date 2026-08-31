@@ -6,8 +6,8 @@ tags:
   - Disraeli
 subtitle: For 150 years, reception was negative about this novel. Then, starting 20 years ago, something changed.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3333.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/03/review-tancred-novel-by-benjamin.html
 ---
