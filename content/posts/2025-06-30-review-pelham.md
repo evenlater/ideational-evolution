@@ -6,8 +6,8 @@ tags:
   - Disraeli
 subtitle: This 1828 novel was a touchstone in defining the dandy. As such it is instructive as to who the young Disraeli was.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3331.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/06/review-pelham-by-disraelis-friend.html
 ---
