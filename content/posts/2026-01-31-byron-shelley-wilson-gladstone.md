@@ -6,7 +6,7 @@ tags:
   - Wilson
   - Gladstone
   - Disraeli
-subtitle: Woodrow Wilson worried that genius marries badly, inspired by Shelley’s example. His wife replied sarcastically about “the poor helpless man of genius.”
+subtitle: 'Woodrow Wilson worried that genius marries badly, inspired by Shelley’s example. His wife replied sarcastically: “the poor helpless man of genius is not utterly unprotected.”'
 lede: ''
 image: ''
 imageFit: ''
