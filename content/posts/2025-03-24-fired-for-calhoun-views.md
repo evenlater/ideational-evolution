@@ -4,7 +4,7 @@ date: 2025-03-24
 draft: false
 tags:
   - Wilson
-subtitle: A scholar has asserted that Wilson was no southern partisan in part because he saw John Calhoun as provincial. But Wilson had a long and not unadmiring relationship to the influential Southern congressman.
+subtitle: A scholar has asserted that Wilson was no southern partisan in part because he saw John Calhoun as provincial. But Wilson had a long and not unadmiring relationship to the influential Southern statesman.
 lede: ''
 image: ''
 imageFit: ''
