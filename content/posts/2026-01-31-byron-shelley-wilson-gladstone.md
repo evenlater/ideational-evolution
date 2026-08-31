@@ -6,7 +6,7 @@ tags:
   - Wilson
   - Gladstone
   - Disraeli
-subtitle: 'Woodrow Wilson worried genius marries badly, because of Shelley’s example. He was thinking of himself. His wife replied sarcastically: “the poor helpless man of genius is not utterly unprotected.”'
+subtitle: 'Woodrow Wilson worried genius marries badly, because of Shelley’s example. He was thinking of himself. His wife replied sarcastically: “The poor helpless man of genius is not utterly unprotected.”'
 lede: ''
 image: ''
 imageFit: ''
@@ -14,7 +14,7 @@ sources: []
 original_url: https://ideationalevolution.blogspot.com/2026/01/an-aside-byron-and-shelleys-influence.html
 ---
 
-My last piece, [on Benjamin Disraeli’s novel](https://ideationalevolution.blogspot.com/2026/01/turning-tory-disraeli-domesticates.html)\*[Venetia](https://ideationalevolution.blogspot.com/2026/01/turning-tory-disraeli-domesticates.html),\*led me to look into Woodrow Wilson and William Gladstone’s thoughts on the Romantic poets Lord Byron and Percy Bysshe Shelley, the subject of that novel. The result inspired a few thoughts on why Disraeli felt the need to “domesticate” Byron and Shelley, as I argued in that essay that he does: A notion of genius which frightened the Victorians but to which Wilson and Gladstone appear to have personally related.
+My last piece, [on Benjamin Disraeli’s novel](https://ideationalevolution.blogspot.com/2026/01/turning-tory-disraeli-domesticates.html) [_Venetia_](https://ideationalevolution.blogspot.com/2026/01/turning-tory-disraeli-domesticates.html), led me to look into Woodrow Wilson and William Gladstone’s thoughts on the Romantic poets Lord Byron and Percy Bysshe Shelley, the subject of that novel. The result inspired a few thoughts on why Disraeli felt the need to “domesticate” Byron and Shelley, as I argued in that essay that he does: A notion of genius which frightened the Victorians but to which Wilson and Gladstone appear to have personally related.
 
 This aside makes the case that by the late 19th century, Romantic genius had been reconceived as emotional instability, and that Wilson and arguably even Gladstone (neither one of whom one would expect to see themselves in the Romantics) absorbed this concept as a way of understanding themselves.
 
@@ -48,7 +48,7 @@ In _Touched With Fire: Manic-Depressive Illness and the Artistic Temperament_, K
 
 While Byron may have found the image of “madness” helpful for his reputation as a poet, Disraeli knew his reputation as a politician was another matter.
 
-Wilson in this 1880 letter does not go so far as to argue that the genius is insane, but he comes close, arguing that the genius is impulsive. Wilson confesses he was unnerved by what Hamerton had to say about “marriage as affecting the intellectual life.” “I was oppressed by all the possibilities of mistake, somewhat terrified by the impossibility of any provident provision against danger,” Wilson writes. “I knew the strength of my own impulses--the power of love that was in me, the ruling power of my nature--and I realized that mistake was ruin, happy choice, salvation. Everything depended on the selection I should be allowed to make.”
+Wilson in this 1884 letter does not go so far as to argue that the genius is insane, but he comes close, arguing that the genius is impulsive. Wilson confesses he was unnerved by what Hamerton had to say about “marriage as affecting the intellectual life.” “I was oppressed by all the possibilities of mistake, somewhat terrified by the impossibility of any provident provision against danger,” Wilson writes. “I knew the strength of my own impulses--the power of love that was in me, the ruling power of my nature--and I realized that mistake was ruin, happy choice, salvation. Everything depended on the selection I should be allowed to make.”
 
 Here is a brief, telling passage of Hamerton’s book, which caused Wilson to freak out about what Philip Gilbert Hamerton’s:
 
