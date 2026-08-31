@@ -4,7 +4,7 @@ date: 2025-08-26
 draft: false
 tags:
   - Disraeli
-subtitle: Disraeli’s semi-autobiographical novel shows the conflict between the Byron and the Voltaire in him.
+subtitle: Disraeli’s semi-autobiographical novel shows the conflict between the poet and the politician—and between the Byron and the Voltaire in him.
 lede: ''
 image: ''
 imageFit: ''
