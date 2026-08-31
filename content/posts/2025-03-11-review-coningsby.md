@@ -7,8 +7,8 @@ tags:
   - Disraeli
 subtitle: What happens when a statesman is also a writer? Disraeli’s first political novel as case study.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3334.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/03/review-coningsby-novel-by-benjamin.html
 ---
