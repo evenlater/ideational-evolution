@@ -1,12 +1,16 @@
 ---
-title: "Review: *Coningsby*, a novel by Benjamin Disraeli"
+title: 'Review: *Coningsby*, a novel by Benjamin Disraeli'
 date: 2025-03-11
 draft: false
-original_url: "https://ideationalevolution.blogspot.com/2025/03/review-coningsby-novel-by-benjamin.html"
 tags:
   - Wilson
   - Disraeli
-sources:
+subtitle: What happens when a statesman is also a writer? Disraeli’s first political novel as case study.
+lede: ''
+image: ''
+imageFit: ''
+sources: []
+original_url: https://ideationalevolution.blogspot.com/2025/03/review-coningsby-novel-by-benjamin.html
 ---
 
 In centuries of history very few statesmen have tried to communicate their view of politics through fiction. In the late 18th century, Sweden’s King Gustav III wrote plays and scenarios for operas that today are interpreted as a kind of savvy propaganda. Vaclav Havel wrote plays of consequence both before he was President of the Czech Republic and after, but never tried to use his plays to advance a political agenda in between. In the late 19th century a young Woodrow Wilson, then a professor of government, made abortive attempts to write short stories, but his were not politically oriented; in fact he used the format to ruminate wistfully about how nice it would be to be an author of fiction. However, later in his career as a professor Wilson renounced (bitterly?) the idea that an aspiring statesman, which he had been since youth, could also write fiction. Look at the novels of British Prime Minister Benjamin Disraeli, Wilson wrote: the characters in those novels aren’t real people, he said, they are mere “chessmen” just like Disraeli’s subordinates in parliament.
