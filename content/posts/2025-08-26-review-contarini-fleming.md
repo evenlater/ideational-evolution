@@ -6,7 +6,7 @@ tags:
   - Disraeli
 subtitle: Disraeli’s semi-autobiographical novel shows the conflict between the poet and the politician—and between the Byron and the Voltaire in him.
 lede: ''
-image: ''
+image: /img/IMG_3326.jpeg
 imageFit: ''
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/08/the-whole-romantic-sham-bernard-its.html
