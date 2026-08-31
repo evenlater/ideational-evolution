@@ -4,7 +4,7 @@ date: 2025-07-28
 draft: false
 tags:
   - Disraeli
-subtitle: The delicious digressions of the young Disraeli’s narrator were axed in later versions. Be sure you read the ridiculous, revealing original text.
+subtitle: The delicious digressions of the young Disraeli’s narrator were axed in later editions. Best to read the excellent Routledge edition, which retains the original text even if it gets some of the author’s copious allusions wrong.
 lede: ''
 image: ''
 imageFit: ''
