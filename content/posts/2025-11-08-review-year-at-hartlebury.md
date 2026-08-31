@@ -6,8 +6,8 @@ tags:
   - Disraeli
 subtitle: Disraeli wrote a novel with his sister in 1834 and it wasn’t discovered until 1979. It tells us more about his switch from Radical to Tory than much of his other work.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3335.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/11/review-benjamin-and-sarah-disraelis.html
 ---
