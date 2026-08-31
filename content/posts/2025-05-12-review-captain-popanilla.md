@@ -6,8 +6,8 @@ tags:
   - Disraeli
 subtitle: This entertaining political tract in fictional form was inspired by the Panic of 1825 and the fake nation of Poyais.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3329.jpeg
+imageFit: contain
 sources:
   - dawson_the_first_latin_american_debt
   - dyer_british_satire_and_the_politics
