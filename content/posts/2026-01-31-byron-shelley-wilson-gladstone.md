@@ -6,7 +6,7 @@ tags:
   - Wilson
   - Gladstone
   - Disraeli
-subtitle: 'Woodrow Wilson worried that genius marries badly, inspired by Shelley’s example. His wife replied sarcastically: “the poor helpless man of genius is not utterly unprotected.”'
+subtitle: 'Woodrow Wilson worried genius marries badly, because of Shelley’s example. He was thinking of himself. His wife replied sarcastically: “the poor helpless man of genius is not utterly unprotected.”'
 lede: ''
 image: ''
 imageFit: ''
