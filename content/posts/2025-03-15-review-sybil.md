@@ -6,8 +6,8 @@ tags:
   - Disraeli
 subtitle: A quick look at a hugely influential novel.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3332.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/03/review-sybil-novel-by-benjamin-disraeli.html
 ---
