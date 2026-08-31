@@ -8,7 +8,7 @@ tags:
 subtitle: Two hundred years later, Disraeli’s first novel remains audacious, ridiculous, revealing.
 lede: ''
 image: /img/IMG_3330.jpeg
-imageFit: ''
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/04/review-vivian-grey-novel-by-benjamin.html
 ---
