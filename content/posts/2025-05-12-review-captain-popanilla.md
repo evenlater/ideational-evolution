@@ -4,7 +4,7 @@ date: 2025-05-12
 draft: false
 tags:
   - Disraeli
-subtitle: Was this entertaining political tract in fictional form inspired by the Panic of 1825 and the fake nation of Poyais?
+subtitle: This entertaining political tract in fictional form was perhaps inspired by the Panic of 1825 and the fake nation of Poyais.
 lede: ''
 image: /img/IMG_3329.jpeg
 imageFit: contain
