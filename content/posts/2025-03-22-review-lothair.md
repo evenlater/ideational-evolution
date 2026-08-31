@@ -8,7 +8,7 @@ tags:
 subtitle: The religious quandary at the heart of Disraeli’s late novel and what the Derby diaries reveal about his real beliefs.
 lede: ''
 image: /img/IMG_3318.jpeg
-imageFit: ''
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/03/review-lothair-novel-by-benjamin.html
 ---
