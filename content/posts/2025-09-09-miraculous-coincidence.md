@@ -4,7 +4,7 @@ date: 2025-09-09
 draft: false
 tags:
   - Wilson
-subtitle: Wilson, far from home with no reason to expect his wife would be in the same town, recognized the silhouette of her hairstyle. It led to their engagement and perhaps the lifelong belief in Providence that became a signature of his politics.
+subtitle: Wilson, far from home with no reason to expect his girlfriend would be in the same town, recognized the silhouette of her hairstyle in a hotel window. It led to their engagement and perhaps the lifelong belief in Providence that became a signature of his politics.
 lede: ''
 image: ''
 imageFit: ''
