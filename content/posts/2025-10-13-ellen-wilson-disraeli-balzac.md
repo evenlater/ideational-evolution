@@ -8,8 +8,8 @@ tags:
   - Disraeli
 subtitle: “I feel inclined after this dose of Balzac to equal or exceed you in your contempt for the French,” Ellen Wilson wrote her husband in 1889. Later that contempt would have foreign policy implications.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3346.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/10/an-aside-wilson-and-disraelis-views-of.html
 ---
