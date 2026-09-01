@@ -8,8 +8,8 @@ tags:
   - Disraeli
 subtitle: 'Woodrow Wilson worried genius marries badly, because of Shelley’s example. He was thinking of himself. His wife replied sarcastically: “the poor helpless men of genius are not utterly unprotected.”'
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3345.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2026/01/an-aside-byron-and-shelleys-influence.html
 ---
