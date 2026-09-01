@@ -7,8 +7,8 @@ tags:
   - Disraeli
 subtitle: Correcting a gap in our cinematic education.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/IMG_3341.jpeg
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/07/why-arent-there-any-movies-starring.html
 ---
