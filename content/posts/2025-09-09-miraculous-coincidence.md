@@ -6,8 +6,8 @@ tags:
   - Wilson
 subtitle: Wilson, far from home with no reason to expect his girlfriend would be in the same town, recognized the silhouette of her hairstyle in a hotel window. It led to their engagement and perhaps the lifelong belief in Providence for which the statesman became both beloved and reviled.
 lede: ''
-image: ''
-imageFit: ''
+image: /img/Woodrow Wilson engagement 1883.png
+imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/09/a-miraculous-coincidence-providence.html
 ---
