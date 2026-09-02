@@ -6,7 +6,7 @@ tags:
   - Disraeli
 subtitle: Why was the hero of the conservative prime minister’s last complete novel on the opposite side of the political spectrum?
 lede: ''
-image: /img/IMG_3337.jpeg
+image: /img/IMG_3359.jpeg
 imageFit: contain
 sources: []
 original_url: https://ideationalevolution.blogspot.com/2025/03/review-endymion-novel-by-benjamin.html
