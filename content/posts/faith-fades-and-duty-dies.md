@@ -7,7 +7,7 @@ tags:
 subtitle: At a transitional moment for Victorian faith, Disraeli wrote two religious novels. In them, he defended what he privately viewed as a lost cause.
 lede: ''
 image: /img/pasted-image-1790648811162.png
-imageFit: ''
+imageFit: contain
 sources: []
 ---
 
