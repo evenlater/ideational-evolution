@@ -1,7 +1,7 @@
 ---
 title: "'Faith fades and duty dies'"
 date: 2026-09-29
-draft: true
+draft: false
 tags:
   - Disraeli
 subtitle: At a transitional moment for Victorian faith, Disraeli wrote two religious novels. In them, he defended what he privately viewed as a lost cause.
