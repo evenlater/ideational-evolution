@@ -1,7 +1,7 @@
 ---
 title: "'Patria Opressa!'"
 date: 2026-10-31
-draft: true
+draft: false
 tags:
   - Gladstone
 subtitle: Gladstone, the Theater, Homer, and a 'Complete Revolution' of Opinion.
