@@ -1,5 +1,5 @@
 ---
-title: "'Patria Opressa!'"
+title: "'Patria Oppressa!'"
 date: 2026-10-31
 draft: false
 tags:
