@@ -4,7 +4,7 @@ date: 2026-10-31
 draft: false
 tags:
   - Gladstone
-subtitle: Gladstone, the Theater, Homer, and a 'Complete Revolution' of Opinion.
+subtitle: Gladstone, the theater, Homer, and a 'complete revolution' of opinion.
 lede: ''
 image: /img/pasted-image-1793486771819.png
 imageFit: ''
