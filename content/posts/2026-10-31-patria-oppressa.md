@@ -8,6 +8,7 @@ subtitle: Gladstone, the theater, Homer, and a 'complete revolution' of opinion.
 lede: ''
 image: /img/pasted-image-1793486771819.png
 imageFit: contain
+imageCredit: "Teatro di San Giocomo on the island of Corfu. Public domain."
 sources: []
 ---
 
