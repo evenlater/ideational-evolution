@@ -3,5 +3,5 @@
 # so old links keep working instead of 404ing. Format:
 #   /old/path/   /new/path/   301
 
-/posts/faith-fades-and-duty-dies.md                                         /posts/2026-09-29-faith-fades-and-duty-dies.md  301
-/posts/patria-opressa.md													/posts/2026-10-31-patria-oppressa.md  301
+/posts/faith-fades-and-duty-dies.md/                                         /posts/2026-09-29-faith-fades-and-duty-dies.md/  301
+/posts/patria-opressa.md/													/posts/2026-10-31-patria-oppressa.md/  301
