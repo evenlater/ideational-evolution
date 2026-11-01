@@ -8,18 +8,20 @@ subtitle: Gladstone, the theater, Homer, and a 'complete revolution' of opinion.
 lede: ''
 image: /img/pasted-image-1793486771819.png
 imageFit: contain
-imageCredit: "Teatro di San Giocomo on the island of Corfu. Public domain."
+imageCredit: Teatro di San Giocomo on the island of Corfu. Public domain.
 sources: []
 ---
 
-It may be an evocative Internet mirage, but at least one archival web site suggests that it’s possible Lord High Commissioner Extraordinary William Ewart Gladstone might have sat in the audience of an 1858 production of Giuseppe Verdi’s opera _Macbeth_ at the historic Teatro di San Giacomo on the island of Corfu. Gladstone had begun his political career in 1832 a believer that theaters “really involve the encouragement of sin,” as he told his diary in December 1832. He was described by historian Thomas Macaulay as the last hope of the “stern, unbending Tories.” But scholars say he underwent a transition in exactly this decade that led him eventually to become one of the biggest theater fans in Parliament and perhaps the strongest supporter of the creation of a national theater in England. “On no subject have his opinions undergone a more complete revolution,” as his friend Sir Robert Phillimore would go on to tell his own diary in January 1878. If he was at _Macbeth_, ambivalent still about opera and theater, he was there amid a fervent movement to lobby Gladstone to have Corfu united with Greece and no longer placed under British “protection,” as a chorus playing the roles of Scottish refugees sang these words from the stage: 
+It may be an Internet mirage, but at least one archival web site suggests that it’s possible Lord High Commissioner Extraordinary William Ewart Gladstone might have sat in the audience of an 1858 production of Giuseppe Verdi’s opera _Macbeth_ at the historic Teatro di San Giacomo on the island of Corfu. Gladstone had begun his political career in 1832 a believer that theaters “really involve the encouragement of sin,” as he told his diary in December 1832. He was described by historian Thomas Macaulay as the last hope of the “stern, unbending Tories.” But scholars say he underwent a transition in exactly this decade that led him eventually to become one of the biggest theater fans in Parliament and perhaps the strongest supporter of the creation of a national theater in England. “On no subject have his opinions undergone a more complete revolution,” as his friend Sir Robert Phillimore would go on to tell his own diary in January 1878. If Gladstone was at _Macbeth_, ambivalent still about opera and theater, he was there amid a fervent movement to lobby the British government he represented to have Corfu united with Greece and no longer placed under the Crown's “protection." He would have heard a chorus playing the roles of Scottish refugees singing these words from the stage: 
 
-> CORO
-> Patria oppressa! il dolce nome
+> CORO 
+> Patria oppressa! il dolce nome 
 > No, di madre aver non puoi,
 > Or che tutta a figli tuoi
 > Sei conversa in un avel.
-
+>
+> [which translates to:] 
+>
 > CHORUS
 > Oppressed fatherland of ours! The sweet name 
 > of mother is denied you,
