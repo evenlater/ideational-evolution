@@ -1,5 +1,5 @@
 ---
-title: 'Turning Tory: Disraeli domesticates the scandalous Lord Byron in his novel *Venetia*'
+title: "Turning Tory: Disraeli adulterates the scandalous Lord Byron's myth in his novel *Venetia*"
 date: 2026-01-27
 draft: false
 tags:
