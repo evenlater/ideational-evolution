@@ -63,6 +63,7 @@ sources:
   - stewart_disraelis_novels_reviewed_1826_1968
   - vincent_disraeli
   - weintraub_disraeli_a_biography
+  - felluga_perversity
 original_url: https://ideationalevolution.blogspot.com/2026/01/turning-tory-disraeli-domesticates.html
 ---
 
