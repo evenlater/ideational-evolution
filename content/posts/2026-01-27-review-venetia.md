@@ -52,7 +52,7 @@ sources:
   - marchand_byron_a_biography_volume_1
   - masefield_peacocks_and_primroses_a_survey
   - monypenny_disraeli
-  - more_life_of_lord_byron_volume
+  - moore_life_of_lord_byron_volume
   - okell_disraeli_the_romance_of_politics
   - parry_benjamin_disraeli
   - richmond_the_self_fashioning_of_disraeli
